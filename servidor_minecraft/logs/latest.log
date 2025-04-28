@@ -580,3 +580,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Apr2025 02:46:40.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Quaint Scribe]
 [28Apr2025 02:47:53.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
 [28Apr2025 02:47:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[28Apr2025 02:52:45.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.77.120.30:58519] logged in with entity id 47678 at (921.016740960677, 73.0, -413.59870643123656)
+[28Apr2025 02:52:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[28Apr2025 02:52:45.937] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[28Apr2025 02:53:03.525] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancient_golems:ancient_golems,alexscaves:main_channel,bountiful:play_sound_on_client,occultism:main,bountiful:clipboard_copy,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,curios:main,enchantinginfuser:1,bountiful:select_bounty,alexsmobs:main_channel,modonomicon:main,tombstone:tombstone_channel,mca:main,mowziesmobs:net,bountiful:update_bounty_criteria,galosphere:network,sophisticatedcore:channel,taxbt:taxbt,epicfight:network_manager,caelus:main,kambrik:test_msg,tht:tht,elevatorid:main_channel,create:main,geckolib:main] rejected their client side version number
+[28Apr2025 02:53:03.525] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Apr2025 02:53:03.563] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75504420[id=<null>,name=Daneg32,properties={},legacy=false] (/100.122.10.66:54023) lost connection: Connection closed - mismatched mod channel list
+[28Apr2025 02:53:17.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We do a little trolling...]
+[28Apr2025 02:53:56.006] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ancient_golems:ancient_golems,alexscaves:main_channel,bountiful:play_sound_on_client,occultism:main,bountiful:clipboard_copy,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,curios:main,enchantinginfuser:1,bountiful:select_bounty,alexsmobs:main_channel,modonomicon:main,tombstone:tombstone_channel,mca:main,mowziesmobs:net,bountiful:update_bounty_criteria,galosphere:network,sophisticatedcore:channel,taxbt:taxbt,epicfight:network_manager,caelus:main,kambrik:test_msg,tht:tht,elevatorid:main_channel,create:main,geckolib:main] rejected their client side version number
+[28Apr2025 02:53:56.007] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Apr2025 02:53:56.022] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43d61cc0[id=<null>,name=Daneg32,properties={},legacy=false] (/100.122.10.66:54033) lost connection: Connection closed - mismatched mod channel list
+[28Apr2025 02:55:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR was slain by Zombie
+[28Apr2025 02:55:35.974] [Server thread/INFO] [tombstone/]: The player EMCVENGADOR has successfully been saved
+[28Apr2025 02:56:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported EMCVENGADOR to ceb736]
+[28Apr2025 02:59:20.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAyax[/100.121.176.62:54480] logged in with entity id 58860 at (9.5, 109.0, 1.5)
+[28Apr2025 02:59:20.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax joined the game
+[28Apr2025 02:59:20.910] [Server thread/INFO] [Jade/]: Syncing config to ItsAyax (7db3b1f0-044b-33b0-b5da-1d0269af2d81)
+[28Apr2025 02:59:20.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Ice and Fire]
+[28Apr2025 03:00:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was mauled by Necromancer's undead
+[28Apr2025 03:00:51.225] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 03:00:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Here They Come]
+[28Apr2025 03:01:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 fell from a high place
+[28Apr2025 03:01:13.043] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:01:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR fell from a high place
+[28Apr2025 03:01:14.347] [Server thread/INFO] [tombstone/]: The player EMCVENGADOR has successfully been saved
+[28Apr2025 03:02:05.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ItsAyax to Juan123]
+[28Apr2025 03:02:05.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Minecraft Comes Alive]
+[28Apr2025 03:02:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR has made the advancement [Knowledge of Death]
+[28Apr2025 03:02:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR has reached the goal [Chain Death]
+[28Apr2025 03:02:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR was impaled on a stalagmite
+[28Apr2025 03:02:08.877] [Server thread/INFO] [tombstone/]: The player EMCVENGADOR has successfully been saved
