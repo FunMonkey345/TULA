@@ -323,7 +323,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2025-04-28 02:59:21 +0000"
+      "minecraft:badlands": "2025-04-28 02:59:21 +0000",
+      "minecraft:mangrove_swamp": "2025-04-28 03:53:52 +0000"
     },
     "done": false
   },
@@ -552,6 +553,12 @@
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-04-28 03:30:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-04-28 03:48:44 +0000"
     },
     "done": true
   },
@@ -785,9 +792,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-28 03:48:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-28 03:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-28 03:48:44 +0000"
     },
     "done": true
   },
@@ -1104,6 +1123,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-28 03:55:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-04-28 03:13:04 +0000"
@@ -1308,6 +1333,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_catfish": {
+    "criteria": {
+      "has_catfish": "2025-04-28 03:54:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-04-28 03:13:04 +0000"
@@ -1410,6 +1441,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-28 03:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-28 03:45:52 +0000"
@@ -1431,6 +1468,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-04-28 03:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-28 03:52:54 +0000"
     },
     "done": true
   },
@@ -1558,6 +1601,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-04-28 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-28 03:48:44 +0000"
     },
     "done": true
   },

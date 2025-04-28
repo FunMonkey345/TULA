@@ -787,3 +787,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Apr2025 03:50:41.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Magery]
 [28Apr2025 03:50:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
 [28Apr2025 03:52:37.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1156.500000, 80.500000, -177.500000]
+[28Apr2025 03:53:12.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1336.500000, 63.500000, -254.500000]
+[28Apr2025 03:53:56.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[28Apr2025 03:55:23.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported EMCVENGADOR to Juan123]
+[28Apr2025 03:57:40.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 fell from a high place
+[28Apr2025 03:57:40.401] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 03:57:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Regeneration to EMCVENGADOR]
+[28Apr2025 03:58:01.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMCVENGADOR lost connection: Disconnected
+[28Apr2025 03:58:01.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR left the game
+[28Apr2025 04:01:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1173.500000, 99.500000, -847.500000]
+[28Apr2025 04:01:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1133.500000, 74.500000, -1000.500000]
+[28Apr2025 04:02:36.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[28Apr2025 04:02:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was blown up by Creeper
+[28Apr2025 04:02:39.896] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 04:02:46.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1098.500000, 65.500000, -1014.500000]
