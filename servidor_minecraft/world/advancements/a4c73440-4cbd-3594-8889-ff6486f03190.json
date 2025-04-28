@@ -325,7 +325,8 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-04-28 03:10:30 +0000",
       "minecraft:badlands": "2025-04-28 03:08:20 +0000",
-      "minecraft:dripstone_caves": "2025-04-28 03:24:52 +0000"
+      "minecraft:dripstone_caves": "2025-04-28 03:24:52 +0000",
+      "minecraft:meadow": "2025-04-28 04:33:04 +0000"
     },
     "done": false
   },
@@ -1582,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-28 03:49:23 +0000"
@@ -1672,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/magic_lamp_empty": {
     "criteria": {
       "has_silver_ingot": "2025-04-28 04:04:05 +0000"
@@ -1708,6 +1721,12 @@
     },
     "done": true
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-04-28 04:38:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-04-28 03:48:02 +0000"
@@ -1717,6 +1736,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-28 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
     },
     "done": true
   },
@@ -1771,6 +1796,12 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-28 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
     },
     "done": true
   },
@@ -1840,6 +1871,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-04-28 04:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-28 04:06:04 +0000"
@@ -1861,6 +1898,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-04-28 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
     },
     "done": true
   },
@@ -1954,6 +1997,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-04-28 03:48:02 +0000"
@@ -1963,6 +2012,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-28 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
     },
     "done": true
   },
@@ -2032,6 +2087,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-28 04:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-04-28 03:48:01 +0000"
@@ -2041,6 +2102,12 @@
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-04-28 04:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
     },
     "done": true
   },
@@ -2089,6 +2156,12 @@
   "vinery:recipes/big_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-28 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
     },
     "done": true
   },
@@ -2149,6 +2222,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-28 04:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
     },
     "done": true
   },
@@ -2236,6 +2315,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-04-28 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-28 03:48:58 +0000"
@@ -2305,6 +2390,12 @@
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
       "has_iron_nugget": "2025-04-28 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
     },
     "done": true
   },
@@ -2392,6 +2483,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-28 04:06:04 +0000"
@@ -2428,6 +2525,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-28 04:08:53 +0000"
@@ -2443,6 +2546,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-28 04:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-28 04:36:56 +0000"
     },
     "done": true
   },
@@ -2500,6 +2609,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-28 04:07:10 +0000"
@@ -2542,6 +2657,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-28 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-28 03:48:02 +0000"
@@ -2557,6 +2678,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-04-28 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-28 04:40:52 +0000"
     },
     "done": true
   },
@@ -2650,6 +2777,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-28 04:35:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-04-28 04:07:10 +0000"
@@ -2677,6 +2810,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-28 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-28 04:40:52 +0000"
     },
     "done": true
   },
