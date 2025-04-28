@@ -610,3 +610,180 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Apr2025 03:02:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR has reached the goal [Chain Death]
 [28Apr2025 03:02:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR was impaled on a stalagmite
 [28Apr2025 03:02:08.877] [Server thread/INFO] [tombstone/]: The player EMCVENGADOR has successfully been saved
+[28Apr2025 03:02:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ashes 'n Bones]
+[28Apr2025 03:02:51.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 was kicked for floating too long!
+[28Apr2025 03:02:51.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Flying is not enabled on this server
+[28Apr2025 03:02:51.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:03:23.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ceb736[/100.67.174.47:56473] logged in with entity id 65049 at (986.7553033309817, 15.081454488180139, -364.3590117425711)
+[28Apr2025 03:03:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 joined the game
+[28Apr2025 03:03:24.047] [Server thread/INFO] [Jade/]: Syncing config to ceb736 (6adbdff0-0334-3449-be9a-62fc6da0c6d1)
+[28Apr2025 03:04:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Flowers of the Savanna]
+[28Apr2025 03:06:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 fell from a high place
+[28Apr2025 03:06:05.243] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:06:14.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax lost connection: Disconnected
+[28Apr2025 03:06:14.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax left the game
+[28Apr2025 03:06:25.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAyax[/100.121.176.62:54544] logged in with entity id 65990 at (957.5846209079986, 73.0, -446.2803566945314)
+[28Apr2025 03:06:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax joined the game
+[28Apr2025 03:06:25.275] [Server thread/INFO] [Jade/]: Syncing config to ItsAyax (7db3b1f0-044b-33b0-b5da-1d0269af2d81)
+[28Apr2025 03:07:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR has made the advancement [Monster Hunter]
+[28Apr2025 03:07:58.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 was kicked for floating too long!
+[28Apr2025 03:07:58.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Flying is not enabled on this server
+[28Apr2025 03:07:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:08:19.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:54505] logged in with entity id 66464 at (1.5, 101.0, 4.5)
+[28Apr2025 03:08:19.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[28Apr2025 03:08:19.653] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[28Apr2025 03:08:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Ice and Fire]
+[28Apr2025 03:08:24.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR burned to death
+[28Apr2025 03:08:24.188] [Server thread/INFO] [tombstone/]: The player EMCVENGADOR has successfully been saved
+[28Apr2025 03:08:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [A Seedy Place]
+[28Apr2025 03:08:53.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ceb736[/100.67.174.47:56523] logged in with entity id 66886 at (985.579175835501, 14.227441944325154, -363.9572542049142)
+[28Apr2025 03:08:53.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 joined the game
+[28Apr2025 03:08:53.150] [Server thread/INFO] [Jade/]: Syncing config to ceb736 (6adbdff0-0334-3449-be9a-62fc6da0c6d1)
+[28Apr2025 03:09:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Juan123]
+[28Apr2025 03:09:46.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[28Apr2025 03:09:46.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 moved too quickly! 2.9787049203266633,-2.0,9.50924690378912
+[28Apr2025 03:09:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Minecraft Comes Alive]
+[28Apr2025 03:10:07.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6051ms or 121 ticks behind
+[28Apr2025 03:10:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[28Apr2025 03:10:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ItsAyax]
+[28Apr2025 03:10:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 fell from a high place
+[28Apr2025 03:10:25.066] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:10:32.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to Juan123]
+[28Apr2025 03:10:41.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 was kicked for floating too long!
+[28Apr2025 03:10:41.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Flying is not enabled on this server
+[28Apr2025 03:10:41.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:10:41.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Made Daneg32 a server operator]
+[28Apr2025 03:10:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Made ItsAyax a server operator]
+[28Apr2025 03:11:40.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ceb736[/100.67.174.47:56544] logged in with entity id 69003 at (969.6189053439972, 60.28549238931869, -405.8813919098842)
+[28Apr2025 03:11:40.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 joined the game
+[28Apr2025 03:11:40.355] [Server thread/INFO] [Jade/]: Syncing config to ceb736 (6adbdff0-0334-3449-be9a-62fc6da0c6d1)
+[28Apr2025 03:11:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Juan123]
+[28Apr2025 03:13:25.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Stone Age]
+[28Apr2025 03:13:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Getting an Upgrade]
+[28Apr2025 03:15:13.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Flowers of the Savanna]
+[28Apr2025 03:15:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Daneg32
+[28Apr2025 03:15:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Your First Grave]
+[28Apr2025 03:15:21.464] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[28Apr2025 03:15:50.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ItsAyax to Juan123]
+[28Apr2025 03:15:50.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported ItsAyax to Daneg32]
+[28Apr2025 03:16:00.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 fell from a high place
+[28Apr2025 03:16:00.337] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:16:30.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set spawn point to 950, 72, -430 [0.0] in minecraft:overworld for Daneg32]
+[28Apr2025 03:16:43.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Knowledge of Death]
+[28Apr2025 03:16:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has reached the goal [Chain Death]
+[28Apr2025 03:16:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 was slain by Daneg32
+[28Apr2025 03:16:43.484] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:16:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Monster Hunter]
+[28Apr2025 03:17:30.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Acquire Hardware]
+[28Apr2025 03:17:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 was slain by ItsAyax
+[28Apr2025 03:17:39.978] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:18:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 was caught by Necromancer's fangs
+[28Apr2025 03:18:10.290] [Server thread/INFO] [tombstone/]: The player ceb736 has successfully been saved
+[28Apr2025 03:18:15.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [A Seedy Place]
+[28Apr2025 03:18:28.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 was kicked for floating too long!
+[28Apr2025 03:18:28.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Flying is not enabled on this server
+[28Apr2025 03:18:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:18:35.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pierced by Necromancer's icicle
+[28Apr2025 03:18:35.476] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 03:18:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Monster Hunter]
+[28Apr2025 03:19:07.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ceb736[/100.67.174.47:56610] logged in with entity id 72129 at (974.3797717596275, 60.11071530842178, -410.10178172967255)
+[28Apr2025 03:19:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 joined the game
+[28Apr2025 03:19:07.800] [Server thread/INFO] [Jade/]: Syncing config to ceb736 (6adbdff0-0334-3449-be9a-62fc6da0c6d1)
+[28Apr2025 03:19:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Juan123]
+[28Apr2025 03:19:52.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 was kicked for floating too long!
+[28Apr2025 03:19:52.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Flying is not enabled on this server
+[28Apr2025 03:19:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:20:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Stone Age]
+[28Apr2025 03:21:02.128] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['Daneg32'/66464, l='ServerLevel[world]', x=943.71, y=74.00, z=-450.14] does not respect server-side emote tracking. Ignoring repeat
+[28Apr2025 03:21:05.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ceb736[/100.67.174.47:56636] logged in with entity id 72749 at (970.3132456336975, 54.65444821625268, -413.44710423569234)
+[28Apr2025 03:21:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 joined the game
+[28Apr2025 03:21:05.854] [Server thread/INFO] [Jade/]: Syncing config to ceb736 (6adbdff0-0334-3449-be9a-62fc6da0c6d1)
+[28Apr2025 03:21:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Juan123]
+[28Apr2025 03:22:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Knowledge of Death]
+[28Apr2025 03:22:13.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Funeral Theft]
+[28Apr2025 03:22:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Skeleton
+[28Apr2025 03:22:17.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Your First Grave]
+[28Apr2025 03:22:17.779] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 03:22:29.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Disconnected
+[28Apr2025 03:22:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:22:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Skeleton
+[28Apr2025 03:22:57.428] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 03:23:00.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Alex's Mobs]
+[28Apr2025 03:23:05.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Here They Come]
+[28Apr2025 03:23:06.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ceb736[/100.67.174.47:56675] logged in with entity id 73417 at (982.2606638466677, 57.0, -403.68957474124716)
+[28Apr2025 03:23:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 joined the game
+[28Apr2025 03:23:06.696] [Server thread/INFO] [Jade/]: Syncing config to ceb736 (6adbdff0-0334-3449-be9a-62fc6da0c6d1)
+[28Apr2025 03:23:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Knowledge of Death]
+[28Apr2025 03:23:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Chain Death]
+[28Apr2025 03:23:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Skeleton
+[28Apr2025 03:23:13.683] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 03:24:19.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ceb736 lost connection: Disconnected
+[28Apr2025 03:24:19.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 left the game
+[28Apr2025 03:26:02.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [Learn to Fart]
+[28Apr2025 03:26:04.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [First Age]
+[28Apr2025 03:26:08.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Rhinoceros
+[28Apr2025 03:26:08.341] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 03:26:25.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Rhinoceros
+[28Apr2025 03:26:25.492] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[28Apr2025 03:26:44.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ItsAyax to Juan123]
+[28Apr2025 03:27:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set spawn point to 886, 79, -532 [0.0] in minecraft:overworld for Juan123]
+[28Apr2025 03:27:21.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set spawn point to 892, 80, -518 [0.0] in minecraft:overworld for ItsAyax]
+[28Apr2025 03:27:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Chain Death]
+[28Apr2025 03:27:27.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was killed
+[28Apr2025 03:27:27.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Killed ItsAyax]
+[28Apr2025 03:27:27.897] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[28Apr2025 03:27:41.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Here They Come]
+[28Apr2025 03:27:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set spawn point to 922, 76, -466 [0.0] in minecraft:overworld for EMCVENGADOR]
+[28Apr2025 03:31:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Skeleton
+[28Apr2025 03:31:36.629] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 03:31:53.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Flowers of the Savanna]
+[28Apr2025 03:32:03.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Magery]
+[28Apr2025 03:34:16.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Skeleton
+[28Apr2025 03:34:16.724] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 03:34:30.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR has made the advancement [First Age]
+[28Apr2025 03:35:19.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 was kicked for floating too long!
+[28Apr2025 03:35:19.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Flying is not enabled on this server
+[28Apr2025 03:35:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[28Apr2025 03:35:30.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has completed the challenge [Cannibal]
+[28Apr2025 03:35:31.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:54665] logged in with entity id 80158 at (1002.3258371882346, -40.74376843092293, -360.7920541864894)
+[28Apr2025 03:35:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[28Apr2025 03:35:31.683] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[28Apr2025 03:35:46.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Apr2025 03:35:56.164] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Apr2025 03:35:56.178] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Apr2025 03:35:59.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [We do a little trolling...]
+[28Apr2025 03:35:59.748] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Elda}[style={}] has been infected
+[28Apr2025 03:36:01.893] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Elda}[style={}] has been infected
+[28Apr2025 03:36:03.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[28Apr2025 03:36:03.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elda'/26476, l='ServerLevel[world]', x=974.91, y=51.00, z=-405.01] died, message: 'Elda was slain by Zombie'
+[28Apr2025 03:36:03.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elda'/26476, l='ServerLevel[world]', x=974.91, y=51.00, z=-405.01] died: Elda was slain by Zombie
+[28Apr2025 03:36:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to EMCVENGADOR]
+[28Apr2025 03:36:22.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3345ms or 66 ticks behind
+[28Apr2025 03:36:41.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
+[28Apr2025 03:36:59.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3437ms or 68 ticks behind
+[28Apr2025 03:37:18.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
+[28Apr2025 03:37:36.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[28Apr2025 03:37:53.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[28Apr2025 03:38:12.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[28Apr2025 03:38:25.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Strange Grave Dust]
+[28Apr2025 03:38:32.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4899ms or 97 ticks behind
+[28Apr2025 03:38:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Ashes 'n Bones]
+[28Apr2025 03:38:49.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[28Apr2025 03:39:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[28Apr2025 03:40:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Isn't It Iron Pick]
+[28Apr2025 03:41:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [A Strange Grave Dust]
+[28Apr2025 03:41:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to EMCVENGADOR]
+[28Apr2025 03:43:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ItsAyax]
+[28Apr2025 03:44:44.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [A Strange Grave Dust]
+[28Apr2025 03:45:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Ashes 'n Bones]
+[28Apr2025 03:45:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Knowledge raises the soul]
+[28Apr2025 03:47:21.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Crops of the Wild]
+[28Apr2025 03:47:36.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Knowledge raises the soul]
+[28Apr2025 03:48:12.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Getting an Upgrade]
+[28Apr2025 03:48:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to EMCVENGADOR]
+[28Apr2025 03:49:21.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to EMCVENGADOR]
+[28Apr2025 03:49:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Iron Pickaxe] to EMCVENGADOR]
+[28Apr2025 03:50:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMCVENGADOR has made the advancement [Isn't It Iron Pick]
+[28Apr2025 03:50:41.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Magery]
+[28Apr2025 03:50:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[28Apr2025 03:52:37.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1156.500000, 80.500000, -177.500000]
