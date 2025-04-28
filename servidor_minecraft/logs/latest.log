@@ -1002,3 +1002,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Apr2025 05:08:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Radiation Vibe]
 [28Apr2025 05:11:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Brains and Brawn]
 [28Apr2025 05:13:42.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Uranium Fever]
+[28Apr2025 05:14:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [It Belongs in a Museum]
+[28Apr2025 05:15:00.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Brainiac
+[28Apr2025 05:15:00.924] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[28Apr2025 05:15:03.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was reduced to atoms
+[28Apr2025 05:15:03.077] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 05:15:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 743.500000, -29.500000, -1337.500000]
+[28Apr2025 05:15:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 806.500000, -44.500000, -1358.500000]
+[28Apr2025 05:15:24.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Bone Crusher]
+[28Apr2025 05:15:53.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [THE OOOOOOOOZE]
+[28Apr2025 05:16:10.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ItsAyax]
+[28Apr2025 05:20:09.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[28Apr2025 05:20:20.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Bone Crusher]
+[28Apr2025 05:21:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Uranium Fever]
+[28Apr2025 05:22:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Daneg32
+[28Apr2025 05:22:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Crisis Adverted]
+[28Apr2025 05:22:38.128] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[28Apr2025 05:22:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[28Apr2025 05:24:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to Daneg32]
+[28Apr2025 05:24:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to 3 targets]
