@@ -13722,3 +13722,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Apr2025 05:03:47.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
 [28Apr2025 05:03:57.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Brains and Brawn]
 [28Apr2025 05:04:15.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Book of Monsters]
+[28Apr2025 05:04:55.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Wild Harvest]
+[28Apr2025 05:04:58.209] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Rea}[style={}] has been infected
+[28Apr2025 05:05:01.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 05:05:01.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 05:05:08.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Would you Like to Know More?]
+[28Apr2025 05:05:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Brains and Brawn]
+[28Apr2025 05:06:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Smelly Situation]
+[28Apr2025 05:07:43.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [THE OOOOOOOOZE]
+[28Apr2025 05:08:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[28Apr2025 05:08:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Radiation Vibe]
+[28Apr2025 05:10:01.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 05:10:01.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 05:11:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Brains and Brawn]
+[28Apr2025 05:13:42.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Uranium Fever]
