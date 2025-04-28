@@ -622,6 +622,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-28 03:36:16 +0000"
@@ -889,6 +895,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/brush": {
     "criteria": {
       "has_wool": "2025-04-28 03:45:56 +0000"
@@ -1093,6 +1105,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-04-28 03:45:56 +0000"
@@ -1144,6 +1162,12 @@
   "chococraft:recipes/food/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2025-04-28 03:23:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
     },
     "done": true
   },
@@ -1279,6 +1303,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_fence": {
     "criteria": {
       "has_stick": "2025-04-28 03:13:04 +0000"
@@ -1318,6 +1348,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-28 03:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
     },
     "done": true
   },
@@ -1480,6 +1516,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-04-28 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-04-28 04:04:10 +0000"
     },
     "done": true
   },

@@ -801,3 +801,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Apr2025 04:02:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was blown up by Creeper
 [28Apr2025 04:02:39.896] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [28Apr2025 04:02:46.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1098.500000, 65.500000, -1014.500000]
+[28Apr2025 04:03:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Chain Death]
+[28Apr2025 04:03:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Hydra
+[28Apr2025 04:03:00.137] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 04:03:05.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1109.500000, 67.500000, -1010.500000]
+[28Apr2025 04:03:17.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
+[28Apr2025 04:03:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Hydra
+[28Apr2025 04:03:21.946] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 04:03:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1102.500000, 67.500000, -1002.500000]
+[28Apr2025 04:03:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Hydra
+[28Apr2025 04:03:32.289] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 04:03:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1101.500000, 67.500000, -1004.500000]
+[28Apr2025 04:04:02.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Apr2025 04:04:21.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[28Apr2025 04:04:30.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 908.500000, 90.500000, -1101.500000]
+[28Apr2025 04:04:38.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[28Apr2025 04:05:06.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Apr2025 04:05:23.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[28Apr2025 04:05:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 742.500000, 74.500000, -731.500000]
+[28Apr2025 04:06:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Acquire Hardware]
+[28Apr2025 04:06:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall
+[28Apr2025 04:06:14.977] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[28Apr2025 04:06:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 710.500000, 37.500000, -631.500000]
+[28Apr2025 04:06:24.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Isn't It Iron Pick]
+[28Apr2025 04:07:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 761.500000, 63.500000, -1180.500000]
+[28Apr2025 04:08:34.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Apr2025 04:08:47.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1015.500000, 70.500000, -1361.500000]
+[28Apr2025 04:08:51.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[28Apr2025 04:09:19.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[28Apr2025 04:09:37.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[28Apr2025 04:09:56.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3716ms or 74 ticks behind
+[28Apr2025 04:10:14.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2880ms or 57 ticks behind
+[28Apr2025 04:10:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1297.500000, 95.500000, -1555.500000]
+[28Apr2025 04:10:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A True Source of Evil]
+[28Apr2025 04:11:14.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Apr2025 04:11:31.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[28Apr2025 04:11:52.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Apr2025 04:12:11.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 04:13:04.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
