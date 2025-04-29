@@ -570,3 +570,65 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 04:14:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Ice and Fire]
 [29Apr2025 04:15:09.844] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=46, y=-19, z=-197}
 [29Apr2025 04:15:09.845] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=45, y=-19, z=-197}
+[29Apr2025 04:16:11.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported sergi69420 to Juan123]
+[29Apr2025 04:17:09.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:59849] logged in with entity id 6014 at (2313.190247086242, 67.0, 1004.5127861409829)
+[29Apr2025 04:17:09.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[29Apr2025 04:17:09.715] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[29Apr2025 04:18:28.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAyax[/100.121.176.62:58550] logged in with entity id 6435 at (2316.0112189407114, 67.0, 1006.5104043623668)
+[29Apr2025 04:18:28.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax joined the game
+[29Apr2025 04:18:28.910] [Server thread/INFO] [Jade/]: Syncing config to ItsAyax (7db3b1f0-044b-33b0-b5da-1d0269af2d81)
+[29Apr2025 04:19:01.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[29Apr2025 04:19:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[29Apr2025 04:19:16.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:59876] logged in with entity id 6807 at (2318.9365490755354, 67.0, 1013.06894759518)
+[29Apr2025 04:19:16.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[29Apr2025 04:19:16.827] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[29Apr2025 04:19:33.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Wild Harvest]
+[29Apr2025 04:21:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set spawn point to 2306, 66, 1042 [0.0] in minecraft:overworld for sergi69420]
+[29Apr2025 04:22:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Stone Age]
+[29Apr2025 04:22:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Getting an Upgrade]
+[29Apr2025 04:23:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set spawn point to 2119, 72, 816 [0.0] in minecraft:overworld for Daneg32]
+[29Apr2025 04:23:38.287] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2052, y=22, z=573}
+[29Apr2025 04:23:39.871] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1919, y=-53, z=564}
+[29Apr2025 04:23:39.871] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1918, y=-53, z=564}
+[29Apr2025 04:23:53.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Sea Serpent
+[29Apr2025 04:23:53.789] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[29Apr2025 04:24:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Cover Me with Diamonds]
+[29Apr2025 04:24:08.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Apr2025 04:24:09.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 was slain by Skeleton
+[29Apr2025 04:24:09.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Your First Grave]
+[29Apr2025 04:24:09.125] [Server thread/INFO] [tombstone/]: The player sergi69420 has successfully been saved
+[29Apr2025 04:24:13.007] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1564, y=-16, z=-175}
+[29Apr2025 04:24:13.052] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1567, y=-16, z=-178}
+[29Apr2025 04:24:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 2302.500000, 67.500000, 1004.500000]
+[29Apr2025 04:24:44.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Sea Serpent
+[29Apr2025 04:24:44.949] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[29Apr2025 04:24:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Sea Serpent
+[29Apr2025 04:24:45.875] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[29Apr2025 04:24:47.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[29Apr2025 04:24:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 2318.500000, 67.500000, 1017.500000]
+[29Apr2025 04:24:57.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 2309.500000, 67.500000, 1017.500000]
+[29Apr2025 04:24:59.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Apr2025 04:25:06.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Sea Serpent
+[29Apr2025 04:25:06.588] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[29Apr2025 04:25:06.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set spawn point to 2320, 67, 1015 [0.0] in minecraft:overworld for Juan123]
+[29Apr2025 04:25:17.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 2311.500000, 66.500000, 1019.500000]
+[29Apr2025 04:25:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sea? Not a Problem]
+[29Apr2025 04:25:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Monster Hunter]
+[29Apr2025 04:26:00.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has completed the challenge [Cannibal]
+[29Apr2025 04:26:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 was slain by Skeleton
+[29Apr2025 04:26:21.248] [Server thread/INFO] [tombstone/]: The player sergi69420 has successfully been saved
+[29Apr2025 04:29:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was burnt to a crisp whilst fighting Daneg32
+[29Apr2025 04:29:58.537] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[29Apr2025 04:29:59.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[29Apr2025 04:30:02.561] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1488, y=0, z=-182}
+[29Apr2025 04:30:02.562] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1488, y=0, z=-180}
+[29Apr2025 04:30:02.970] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1523, y=33, z=-160}
+[29Apr2025 04:30:02.980] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1522, y=33, z=-163}
+[29Apr2025 04:30:02.980] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1521, y=33, z=-163}
+[29Apr2025 04:30:08.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 2324.500000, 67.500000, 1007.500000]
+[29Apr2025 04:33:07.150] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2687, y=-18, z=972}
+[29Apr2025 04:33:07.150] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2687, y=-18, z=970}
+[29Apr2025 04:35:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Ambush]
+[29Apr2025 04:35:45.273] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2723, y=-41, z=1329}
+[29Apr2025 04:36:15.541] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2736, y=-50, z=1304}
+[29Apr2025 04:36:46.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Acquire Hardware]

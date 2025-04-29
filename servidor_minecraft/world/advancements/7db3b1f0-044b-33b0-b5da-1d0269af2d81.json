@@ -938,6 +938,7 @@
       "minecraft:spider": "2025-04-28 03:38:32 +0000",
       "minecraft:creeper": "2025-04-28 04:23:30 +0000",
       "minecraft:cave_spider": "2025-04-28 05:38:53 +0000",
+      "minecraft:enderman": "2025-04-29 04:26:27 +0000",
       "minecraft:zombie": "2025-04-28 03:18:59 +0000",
       "minecraft:drowned": "2025-04-28 07:35:34 +0000"
     },
@@ -4135,6 +4136,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-28 07:33:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-28 07:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-28 07:33:04 +0000"
@@ -4147,9 +4160,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_item": "2025-04-28 07:33:02 +0000"
+      "has_logs": "2025-04-28 07:33:04 +0000"
     },
     "done": true
   },
@@ -4171,21 +4184,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-04-28 07:33:04 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/grapevine_stem": {
     "criteria": {
       "has_oak_log": "2025-04-28 07:33:06 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_item": "2025-04-28 07:33:02 +0000"
+      "has_log": "2025-04-29 04:19:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-04-29 04:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 04:19:57 +0000"
     },
     "done": true
   },
