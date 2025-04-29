@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
@@ -256,6 +268,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
       "has_gysahl_green": "2025-04-29 04:49:35 +0000"
@@ -277,6 +295,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-04-29 04:36:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:08 +0000"
     },
     "done": true
   },
@@ -406,6 +430,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-04-29 04:21:13 +0000"
@@ -445,6 +475,12 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
     },
     "done": true
   },
@@ -508,6 +544,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-29 04:22:01 +0000"
@@ -523,6 +565,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-29 04:36:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:08 +0000"
     },
     "done": true
   },
@@ -569,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-29 04:17:50 +0000"
@@ -590,6 +644,12 @@
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-04-29 04:26:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-29 05:07:09 +0000"
     },
     "done": true
   },
@@ -637,6 +697,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
     },
     "done": true
   },
@@ -709,6 +775,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-04-29 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
     },
     "done": true
   },
@@ -971,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
@@ -1052,6 +1130,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-29 04:57:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
     },
     "done": true
   },
@@ -1145,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_lattice": {
     "criteria": {
       "has_stick": "2025-04-29 04:19:28 +0000"
@@ -1163,15 +1253,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-04-29 04:19:28 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-29 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
     },
     "done": true
   },
@@ -1277,6 +1385,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
@@ -1298,6 +1412,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-04-29 04:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
     },
     "done": true
   },
@@ -1512,6 +1632,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-04-29 05:07:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-04-29 04:36:46 +0000"
@@ -1536,6 +1668,12 @@
     },
     "done": true
   },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-29 04:22:01 +0000"
@@ -1557,6 +1695,18 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-29 04:30:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-04-29 05:10:33 +0000"
     },
     "done": true
   },
@@ -1602,6 +1752,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-29 05:10:33 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-29 05:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-04-29 04:40:06 +0000"
@@ -1622,7 +1784,8 @@
       "minecraft:sparse_jungle": "2025-04-29 04:53:25 +0000",
       "minecraft:lukewarm_ocean": "2025-04-29 04:37:57 +0000",
       "minecraft:lush_caves": "2025-04-29 04:58:07 +0000",
-      "minecraft:jungle": "2025-04-29 04:59:52 +0000"
+      "minecraft:jungle": "2025-04-29 04:59:52 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-29 05:06:11 +0000"
     },
     "done": false
   },
@@ -1650,6 +1813,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-29 04:33:07 +0000",
@@ -1672,6 +1841,12 @@
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-04-29 04:14:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
     },
     "done": true
   },

@@ -6495,3 +6495,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 05:06:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was struck with lightning by Lightning Dragon
 [29Apr2025 05:06:59.704] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
 [29Apr2025 05:07:13.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 1957.500000, 78.500000, 199.500000]
+[29Apr2025 05:08:07.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[29Apr2025 05:08:24.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Apr2025 05:08:41.083] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2422, y=28, z=-15}
+[29Apr2025 05:08:44.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[29Apr2025 05:09:06.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7044ms or 140 ticks behind
+[29Apr2025 05:09:30.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8845ms or 176 ticks behind
+[29Apr2025 05:09:54.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8896ms or 177 ticks behind
+[29Apr2025 05:10:14.102] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1270, y=-37, z=616}
+[29Apr2025 05:10:14.103] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1266, y=-36, z=611}
+[29Apr2025 05:10:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to sergi69420]
+[29Apr2025 05:10:17.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8281ms or 165 ticks behind
+[29Apr2025 05:10:27.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [Cannibal]
+[29Apr2025 05:11:27.371] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1208, y=23, z=631}
+[29Apr2025 05:11:27.796] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1203, y=-45, z=549}
+[29Apr2025 05:11:33.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 05:12:39.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 fell off some vines
+[29Apr2025 05:12:39.580] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[29Apr2025 05:12:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 2082.500000, 91.500000, 268.500000]
+[29Apr2025 05:12:49.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Apr2025 05:12:50.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to 4 targets]
+[29Apr2025 05:12:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 05:13:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Amateur Archaeologist]
+[29Apr2025 05:13:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Ice Bucket Challenge]
+[29Apr2025 05:14:23.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Apr2025 05:14:46.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7608ms or 152 ticks behind
+[29Apr2025 05:15:11.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9991ms or 199 ticks behind
+[29Apr2025 05:15:35.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9789ms or 195 ticks behind
+[29Apr2025 05:16:04.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13262ms or 265 ticks behind
+[29Apr2025 05:16:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [The Cave That Time Forgot]
+[29Apr2025 05:16:32.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13303ms or 266 ticks behind
+[29Apr2025 05:16:54.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 05:16:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has reached the goal [The Cave That Time Forgot]
+[29Apr2025 05:16:58.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10845ms or 216 ticks behind
+[29Apr2025 05:17:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Town of Bedrock]
+[29Apr2025 05:17:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1113.500000, -18.500000, 763.500000]
+[29Apr2025 05:17:22.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9430ms or 188 ticks behind
+[29Apr2025 05:17:37.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 05:17:48.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10463ms or 209 ticks behind
+[29Apr2025 05:18:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[29Apr2025 05:18:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [The Cave That Time Forgot]
+[29Apr2025 05:18:12.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8925ms or 178 ticks behind

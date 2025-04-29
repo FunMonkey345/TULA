@@ -327,6 +327,7 @@
       "minecraft:bamboo_jungle": "2025-04-28 06:56:34 +0000",
       "minecraft:wooded_badlands": "2025-04-28 06:43:41 +0000",
       "minecraft:badlands": "2025-04-28 03:08:20 +0000",
+      "minecraft:savanna_plateau": "2025-04-29 05:14:21 +0000",
       "minecraft:beach": "2025-04-28 06:40:34 +0000",
       "minecraft:dark_forest": "2025-04-28 06:36:32 +0000",
       "minecraft:mangrove_swamp": "2025-04-28 06:27:12 +0000",
@@ -339,6 +340,7 @@
       "minecraft:lush_caves": "2025-04-29 04:57:13 +0000",
       "minecraft:desert": "2025-04-29 04:47:31 +0000",
       "minecraft:jungle": "2025-04-28 06:41:08 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-29 04:25:53 +0000",
       "minecraft:meadow": "2025-04-28 04:33:04 +0000",
       "minecraft:plains": "2025-04-28 04:45:23 +0000"
@@ -1064,6 +1066,7 @@
       "honey_bottle": "2025-04-28 05:23:28 +0000",
       "sweet_berries": "2025-04-28 05:47:25 +0000",
       "beef": "2025-04-28 05:48:32 +0000",
+      "baked_potato": "2025-04-29 05:12:15 +0000",
       "bread": "2025-04-28 03:17:52 +0000",
       "rotten_flesh": "2025-04-28 03:17:12 +0000",
       "melon_slice": "2025-04-28 03:21:17 +0000",
@@ -4894,6 +4897,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-29 05:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-29 04:26:24 +0000"
@@ -4918,9 +4933,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-29 04:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
     },
     "done": true
   },
@@ -4930,9 +4963,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-04-29 05:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-29 05:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-29 05:03:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-04-29 05:13:56 +0000"
     },
     "done": true
   },
@@ -4972,6 +5035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_hoe": "2025-04-29 04:22:38 +0000"
@@ -4990,9 +5059,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-29 05:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2025-04-29 04:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 05:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-29 05:09:02 +0000"
     },
     "done": true
   },
@@ -5002,9 +5113,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-04-29 05:13:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-04-29 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-29 05:13:59 +0000"
     },
     "done": true
   },
