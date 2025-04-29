@@ -1069,6 +1069,7 @@
       "baked_potato": "2025-04-29 05:12:15 +0000",
       "bread": "2025-04-28 03:17:52 +0000",
       "rotten_flesh": "2025-04-28 03:17:12 +0000",
+      "cookie": "2025-04-29 05:22:08 +0000",
       "melon_slice": "2025-04-28 03:21:17 +0000",
       "carrot": "2025-04-28 05:02:39 +0000"
     },
@@ -4897,6 +4898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-29 05:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-29 05:04:53 +0000"
@@ -4936,6 +4943,12 @@
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-29 05:18:25 +0000"
     },
     "done": true
   },
@@ -5035,6 +5048,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-04-29 05:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-29 05:09:53 +0000"
@@ -5092,6 +5111,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-04-29 05:19:23 +0000"
     },
     "done": true
   },

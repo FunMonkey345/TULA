@@ -1001,6 +1001,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-04-29 05:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-29 04:40:06 +0000"
@@ -1535,6 +1541,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-04-29 05:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-04-29 04:17:50 +0000"
@@ -1611,6 +1623,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-29 04:22:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-04-29 05:17:20 +0000"
     },
     "done": true
   },
@@ -1779,6 +1797,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-29 04:46:36 +0000",
+      "minecraft:wooded_badlands": "2025-04-29 05:16:31 +0000",
       "minecraft:badlands": "2025-04-29 04:14:41 +0000",
       "minecraft:dark_forest": "2025-04-29 04:56:17 +0000",
       "minecraft:sparse_jungle": "2025-04-29 04:53:25 +0000",
