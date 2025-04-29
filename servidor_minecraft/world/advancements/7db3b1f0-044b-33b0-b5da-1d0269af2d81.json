@@ -942,6 +942,7 @@
       "minecraft:skeleton": "2025-04-28 03:36:06 +0000",
       "minecraft:spider": "2025-04-28 03:38:32 +0000",
       "minecraft:creeper": "2025-04-28 04:23:30 +0000",
+      "minecraft:husk": "2025-04-29 05:32:20 +0000",
       "minecraft:cave_spider": "2025-04-28 05:38:53 +0000",
       "minecraft:enderman": "2025-04-29 04:26:27 +0000",
       "minecraft:zombie": "2025-04-28 03:18:59 +0000",
@@ -4231,9 +4232,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-04-29 04:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
     },
     "done": true
   },
@@ -4297,6 +4310,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-29 05:25:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-29 05:26:19 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_shelf": {
     "criteria": {
       "has_spruce_planks": "2025-04-29 05:01:21 +0000"
@@ -4312,6 +4337,12 @@
   "occultism:recipes/misc/crafting/dictionary_of_spirits": {
     "criteria": {
       "has_datura": "2025-04-29 04:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
     },
     "done": true
   },
@@ -4333,6 +4364,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/myrmex_resin_jungle": {
     "criteria": {
       "has_item": "2025-04-29 04:58:08 +0000"
@@ -4348,6 +4391,18 @@
   "iceandfire:recipes/combat/myrmex_jungle_helmet": {
     "criteria": {
       "has_item": "2025-04-29 04:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
     },
     "done": true
   },
@@ -4399,6 +4454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_tremorsaurus": "2025-04-29 05:19:50 +0000"
@@ -4429,6 +4490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-04-29 04:44:02 +0000"
@@ -4441,9 +4508,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-29 05:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-29 05:01:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 05:26:19 +0000"
     },
     "done": true
   },
@@ -4474,6 +4553,24 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-29 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-29 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-29 05:26:06 +0000"
     },
     "done": true
   },
@@ -4561,6 +4658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-29 05:26:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_leggings": {
     "criteria": {
       "has_item": "2025-04-29 04:58:08 +0000"
@@ -4582,6 +4685,18 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-29 05:01:21 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:find_desert_dungeon": {
+    "criteria": {
+      "requirement": "2025-04-29 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:25:31 +0000"
     },
     "done": true
   },

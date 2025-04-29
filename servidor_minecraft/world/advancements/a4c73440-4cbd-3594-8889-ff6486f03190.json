@@ -4904,6 +4904,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-04-29 05:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-29 05:04:53 +0000"
@@ -4922,6 +4928,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-29 05:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_hoe": "2025-04-29 04:22:38 +0000"
@@ -4931,6 +4943,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-04-29 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-29 05:35:24 +0000"
     },
     "done": true
   },
@@ -4946,9 +4964,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-04-29 05:31:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-04-29 05:18:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-29 05:30:10 +0000"
     },
     "done": true
   },
@@ -4961,6 +4991,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-29 05:09:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-29 05:34:59 +0000"
     },
     "done": true
   },
@@ -5000,9 +5036,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-29 05:32:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-29 05:03:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-29 05:34:59 +0000"
     },
     "done": true
   },
@@ -5030,6 +5078,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-04-29 05:26:50 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2025-04-29 04:22:41 +0000"
@@ -5051,6 +5105,12 @@
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_vallumraptor": "2025-04-29 05:20:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-29 05:30:10 +0000"
     },
     "done": true
   },
@@ -5102,6 +5162,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2025-04-29 05:32:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2025-04-29 04:49:26 +0000"
@@ -5114,9 +5180,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-29 05:32:34 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-04-29 05:19:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-29 05:32:34 +0000"
     },
     "done": true
   },
@@ -5126,9 +5204,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-04-29 05:31:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-29 05:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-29 05:09:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-29 05:32:34 +0000"
     },
     "done": true
   },
@@ -5156,6 +5252,12 @@
     },
     "done": true
   },
+  "uniquedungeons:find_desert_dungeon": {
+    "criteria": {
+      "requirement": "2025-04-29 05:33:10 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2025-04-29 05:09:53 +0000"
@@ -5168,15 +5270,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-29 05:34:59 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/obsidian_dust": {
     "criteria": {
       "has_obsidian": "2025-04-29 05:13:59 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-29 05:35:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-04-29 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-29 05:32:34 +0000"
     },
     "done": true
   },

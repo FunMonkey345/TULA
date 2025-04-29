@@ -4533,6 +4533,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-04-29 05:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-29 05:05:45 +0000"
@@ -4599,6 +4617,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-29 05:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-04-29 04:58:59 +0000"
@@ -4623,9 +4647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-04-29 04:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
     },
     "done": true
   },
@@ -4641,9 +4677,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-04-29 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
     },
     "done": true
   },
@@ -4713,6 +4761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_tremorsaurus": "2025-04-29 05:19:44 +0000"
@@ -4734,6 +4788,12 @@
   "occultism:recipes/building_blocks/crafting/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-04-29 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
     },
     "done": true
   },
@@ -4764,6 +4824,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-04-29 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
     },
     "done": true
   },
@@ -4815,9 +4881,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-04-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-04-29 04:56:09 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:find_desert_dungeon": {
+    "criteria": {
+      "requirement": "2025-04-29 05:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-29 05:27:51 +0000"
     },
     "done": true
   },
