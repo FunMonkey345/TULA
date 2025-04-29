@@ -5061,6 +5061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-29 06:00:17 +0000"
@@ -5073,9 +5079,33 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-04-29 06:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-29 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
     },
     "done": true
   },
@@ -5091,9 +5121,51 @@
     },
     "done": true
   },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2025-04-29 06:31:44 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-29 06:26:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-04-29 06:20:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-04-29 06:33:17 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-29 06:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-29 06:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-04-29 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
     },
     "done": true
   },
@@ -5119,6 +5191,30 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-29 06:13:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-29 06:21:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-04-29 06:34:35 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
     },
     "done": true
   },

@@ -4882,6 +4882,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-29 06:20:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-04-29 05:55:53 +0000"

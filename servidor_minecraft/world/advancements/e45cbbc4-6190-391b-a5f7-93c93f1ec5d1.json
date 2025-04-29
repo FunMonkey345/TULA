@@ -415,6 +415,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-04-29 06:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-29 04:22:01 +0000"
@@ -841,6 +847,12 @@
     },
     "done": true
   },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_jungle_grape_seeds": "2025-04-29 06:33:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-04-29 04:36:46 +0000"
@@ -935,6 +947,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-04-29 04:36:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-04-29 06:34:26 +0000"
     },
     "done": true
   },
@@ -1466,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-29 06:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-29 04:46:30 +0000"
@@ -1706,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 06:26:05 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
@@ -1782,6 +1812,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-04-29 05:52:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 06:23:30 +0000"
     },
     "done": true
   },
@@ -1890,6 +1926,12 @@
   "brewery:main/root": {
     "criteria": {
       "seeds": "2025-04-29 04:14:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-29 06:28:08 +0000"
     },
     "done": true
   },

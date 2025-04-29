@@ -16804,3 +16804,77 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 06:19:08.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 06:19:18.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [29Apr2025 06:19:50.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[29Apr2025 06:20:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [No Step on Snake]
+[29Apr2025 06:21:11.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [It's an Emu!!!]
+[29Apr2025 06:21:19.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Apr2025 06:21:37.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
+[29Apr2025 06:21:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Pest Control]
+[29Apr2025 06:21:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Gone Bananas!]
+[29Apr2025 06:21:56.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[29Apr2025 06:22:16.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[29Apr2025 06:22:35.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
+[29Apr2025 06:22:56.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5384ms or 107 ticks behind
+[29Apr2025 06:23:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[29Apr2025 06:23:16.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5280ms or 105 ticks behind
+[29Apr2025 06:23:17.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Dragonslayer]
+[29Apr2025 06:23:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has reached the goal [Bone Crusher]
+[29Apr2025 06:23:34.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[29Apr2025 06:23:52.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[29Apr2025 06:24:09.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[29Apr2025 06:24:18.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Amethyst Shard] to Juan123]
+[29Apr2025 06:24:28.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[29Apr2025 06:24:46.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3188ms or 63 ticks behind
+[29Apr2025 06:24:55.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 06:24:55.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 06:25:05.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4618ms or 92 ticks behind
+[29Apr2025 06:25:23.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 06:25:23.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
+[29Apr2025 06:25:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 4 [Leather] to Juan123]
+[29Apr2025 06:26:18.808] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1646, y=-18, z=1735}
+[29Apr2025 06:26:28.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Apr2025 06:26:47.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4368ms or 87 ticks behind
+[29Apr2025 06:26:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 06:27:06.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[29Apr2025 06:27:25.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4276ms or 85 ticks behind
+[29Apr2025 06:27:36.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 06:27:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[29Apr2025 06:27:45.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4215ms or 84 ticks behind
+[29Apr2025 06:28:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Magery]
+[29Apr2025 06:28:23.919] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=33b912f8-0aa0-45e6-a2d4-9b5677e6f35c, length=50, extra={valid=true}}, startingAt=0, player=null}
+[29Apr2025 06:28:28.586] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[29Apr2025 06:28:36.172] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[29Apr2025 06:28:41.250] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=931b2bda-a25e-4e55-957a-88c46f5e9a7b, length=83, extra={valid=true}}, startingAt=0, player=null}
+[29Apr2025 06:28:45.479] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=0de63fbe-2f20-44e0-8969-479b76ceeb6b, length=44, extra={valid=true}}, startingAt=0, player=null}
+[29Apr2025 06:28:48.929] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=3045b335-12ca-4ddb-aca5-0aef450a5e4c, length=78, extra={valid=true}}, startingAt=0, player=null}
+[29Apr2025 06:28:55.486] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[29Apr2025 06:29:05.298] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[29Apr2025 06:29:10.657] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[29Apr2025 06:30:19.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 06:30:19.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 06:33:02.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Wild Harvest]
+[29Apr2025 06:33:17.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Begun, The Emu War Has]
+[29Apr2025 06:34:26.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [We do a little trolling...]
+[29Apr2025 06:34:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Pic-A-Nic Basket?]
+[29Apr2025 06:35:14.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Apr2025 06:35:24.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 06:35:24.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 06:35:36.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6478ms or 129 ticks behind
+[29Apr2025 06:35:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 06:35:53.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[29Apr2025 06:36:28.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[29Apr2025 06:36:46.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
+[29Apr2025 06:36:52.180] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:sunflower_plains took 722 ms
+[29Apr2025 06:36:53.184] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:cherry_grove took 446 ms
+[29Apr2025 06:37:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 618.500000, 77.000000, 2899.500000]
+[29Apr2025 06:37:02.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved too quickly! 8.926990927319139,3.516794094404375,-3.186727142278869
+[29Apr2025 06:37:10.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 233.500000, 68.000000, 2550.500000]
+[29Apr2025 06:37:11.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergi69420 moved too quickly! -7.855242410398205,6.0,-2.244976129981069
+[29Apr2025 06:37:11.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved too quickly! 10.197760503298468,-1.0235861434644136,0.5800408458267157
+[29Apr2025 06:37:11.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Spectator Mode]
+[29Apr2025 06:37:19.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18266ms or 365 ticks behind
+[29Apr2025 06:37:28.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 232.500000, 92.500000, 2551.500000]
+[29Apr2025 06:37:35.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[29Apr2025 06:37:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 06:37:40.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 06:38:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Fruits of the Field]
+[29Apr2025 06:38:26.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
