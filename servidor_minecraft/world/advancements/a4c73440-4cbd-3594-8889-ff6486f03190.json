@@ -323,6 +323,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-29 06:51:16 +0000",
       "minecraft:eroded_badlands": "2025-04-29 06:20:44 +0000",
       "minecraft:cherry_grove": "2025-04-28 03:10:30 +0000",
       "minecraft:sunflower_plains": "2025-04-29 06:37:11 +0000",
@@ -5603,9 +5604,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-29 06:48:18 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-04-29 06:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-29 06:47:26 +0000"
     },
     "done": true
   },

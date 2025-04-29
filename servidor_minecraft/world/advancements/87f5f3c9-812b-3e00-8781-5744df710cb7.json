@@ -344,6 +344,7 @@
       "minecraft:ocean": "2025-04-28 06:43:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-28 06:20:48 +0000",
       "minecraft:meadow": "2025-04-28 04:09:02 +0000",
+      "minecraft:savanna": "2025-04-29 06:47:35 +0000",
       "minecraft:plains": "2025-04-28 04:35:13 +0000"
     },
     "done": false
@@ -5055,6 +5056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-29 06:50:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_unstable_intangibility": {
     "criteria": {
       "has_magic_scroll": "2025-04-29 06:16:15 +0000"
@@ -5082,6 +5089,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-29 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-29 06:50:27 +0000"
     },
     "done": true
   },
@@ -5118,6 +5131,18 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-29 06:24:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 06:50:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-04-29 06:55:41 +0000"
     },
     "done": true
   },
@@ -5160,6 +5185,12 @@
   "alexsmobs:alexsmobs/emu_dodge": {
     "criteria": {
       "ex": "2025-04-29 06:33:17 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-04-29 06:51:49 +0000"
     },
     "done": true
   },
