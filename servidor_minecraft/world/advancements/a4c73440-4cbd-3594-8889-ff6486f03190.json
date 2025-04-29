@@ -336,6 +336,7 @@
       "minecraft:dripstone_caves": "2025-04-28 03:24:52 +0000",
       "minecraft:swamp": "2025-04-28 06:26:33 +0000",
       "minecraft:forest": "2025-04-28 06:31:17 +0000",
+      "minecraft:desert": "2025-04-29 04:47:31 +0000",
       "minecraft:jungle": "2025-04-28 06:41:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-29 04:25:53 +0000",
       "minecraft:meadow": "2025-04-28 04:33:04 +0000",
@@ -4928,6 +4929,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-29 04:49:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-04-29 04:49:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-04-29 04:49:26 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2025-04-29 04:22:41 +0000"
@@ -4952,9 +4971,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-04-29 04:49:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-29 04:26:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-04-29 04:49:26 +0000"
     },
     "done": true
   },
