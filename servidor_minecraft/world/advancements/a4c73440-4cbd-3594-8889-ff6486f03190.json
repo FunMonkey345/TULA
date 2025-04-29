@@ -961,6 +961,7 @@
       "minecraft:skeleton": "2025-04-28 03:23:39 +0000",
       "minecraft:spider": "2025-04-28 03:56:23 +0000",
       "minecraft:creeper": "2025-04-28 05:04:42 +0000",
+      "minecraft:witch": "2025-04-29 04:35:17 +0000",
       "minecraft:zombie": "2025-04-28 03:16:47 +0000"
     },
     "done": false
@@ -4909,6 +4910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-04-29 04:33:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-29 04:26:24 +0000"
@@ -4948,6 +4955,12 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-29 04:26:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 04:35:17 +0000"
     },
     "done": true
   },

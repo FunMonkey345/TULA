@@ -4208,5 +4208,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-04-29 04:42:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
