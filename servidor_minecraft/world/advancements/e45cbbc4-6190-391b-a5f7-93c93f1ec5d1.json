@@ -457,6 +457,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 06:43:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-04-29 05:54:13 +0000"
@@ -496,6 +502,12 @@
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-04-29 04:25:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-04-29 06:38:13 +0000"
     },
     "done": true
   },
@@ -886,6 +898,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-04-29 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-04-29 06:45:05 +0000"
     },
     "done": true
   },
@@ -2063,16 +2081,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-29 06:37:41 +0000",
       "minecraft:bamboo_jungle": "2025-04-29 04:46:36 +0000",
       "minecraft:wooded_badlands": "2025-04-29 05:16:31 +0000",
       "minecraft:badlands": "2025-04-29 04:14:41 +0000",
       "minecraft:dark_forest": "2025-04-29 04:56:17 +0000",
       "minecraft:sparse_jungle": "2025-04-29 04:53:25 +0000",
       "minecraft:lukewarm_ocean": "2025-04-29 04:37:57 +0000",
+      "minecraft:river": "2025-04-29 06:45:05 +0000",
       "minecraft:lush_caves": "2025-04-29 04:58:07 +0000",
       "minecraft:desert": "2025-04-29 06:17:13 +0000",
       "minecraft:jungle": "2025-04-29 04:59:52 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-04-29 05:06:11 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-04-29 05:06:11 +0000",
+      "minecraft:savanna": "2025-04-29 06:44:18 +0000",
+      "minecraft:plains": "2025-04-29 06:38:13 +0000"
     },
     "done": false
   },

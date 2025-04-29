@@ -5049,6 +5049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-29 06:40:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_unstable_intangibility": {
     "criteria": {
       "has_magic_scroll": "2025-04-29 06:16:15 +0000"
@@ -5058,6 +5064,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-29 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 06:40:29 +0000"
     },
     "done": true
   },
@@ -5133,6 +5145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-29 06:40:29 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-04-29 06:20:34 +0000"
@@ -5169,6 +5187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-29 06:40:29 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-04-29 06:00:17 +0000"
@@ -5185,6 +5209,12 @@
   "vinery:main/juicy_success": {
     "criteria": {
       "have_any_juice": "2025-04-29 06:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-29 06:40:46 +0000"
     },
     "done": true
   },

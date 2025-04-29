@@ -325,6 +325,7 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-04-29 06:20:44 +0000",
       "minecraft:cherry_grove": "2025-04-28 03:10:30 +0000",
+      "minecraft:sunflower_plains": "2025-04-29 06:37:11 +0000",
       "minecraft:bamboo_jungle": "2025-04-28 06:56:34 +0000",
       "minecraft:wooded_badlands": "2025-04-28 06:43:41 +0000",
       "minecraft:badlands": "2025-04-28 03:08:20 +0000",
@@ -5575,6 +5576,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
     "criteria": {
       "has_feather": "2025-04-29 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-04-29 06:39:27 +0000"
     },
     "done": true
   },
