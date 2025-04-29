@@ -336,6 +336,7 @@
       "minecraft:dripstone_caves": "2025-04-28 03:24:52 +0000",
       "minecraft:swamp": "2025-04-28 06:26:33 +0000",
       "minecraft:forest": "2025-04-28 06:31:17 +0000",
+      "minecraft:lush_caves": "2025-04-29 04:57:13 +0000",
       "minecraft:desert": "2025-04-29 04:47:31 +0000",
       "minecraft:jungle": "2025-04-28 06:41:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-29 04:25:53 +0000",
@@ -4929,6 +4930,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 05:03:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2025-04-29 04:49:26 +0000"
@@ -4992,6 +4999,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-04-29 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-29 05:03:02 +0000"
     },
     "done": true
   },

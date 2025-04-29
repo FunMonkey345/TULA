@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-04-29 04:19:03 +0000"
@@ -208,6 +214,12 @@
     "criteria": {
       "has_fishing_rod": "2025-04-29 04:14:40 +0000",
       "has_fillet_knife": "2025-04-29 04:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
     },
     "done": true
   },
@@ -340,6 +352,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/red_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-04-29 04:49:35 +0000"
@@ -382,9 +400,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-04-29 04:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
     },
     "done": true
   },
@@ -586,6 +616,12 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-29 04:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-04-29 04:18:53 +0000"
@@ -619,6 +655,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-04-29 04:30:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
     },
     "done": true
   },
@@ -911,6 +953,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-29 04:22:01 +0000"
@@ -920,6 +968,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-29 04:36:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
     },
     "done": true
   },
@@ -995,6 +1049,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-29 04:30:29 +0000"
@@ -1013,6 +1073,12 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-29 04:59:34 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-04-29 04:49:35 +0000"
@@ -1022,6 +1088,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-04-29 04:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-29 04:59:34 +0000"
     },
     "done": true
   },
@@ -1133,9 +1205,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-29 04:53:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-29 04:19:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
     },
     "done": true
   },
@@ -1166,6 +1250,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-29 04:21:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-04-29 04:59:34 +0000"
     },
     "done": true
   },
@@ -1211,9 +1301,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-29 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-29 04:59:34 +0000"
     },
     "done": true
   },
@@ -1398,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-29 04:59:38 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
@@ -1434,6 +1542,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-04-29 04:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-29 04:21:13 +0000"
@@ -1461,6 +1575,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-29 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-29 04:53:46 +0000"
     },
     "done": true
   },
@@ -1492,9 +1618,19 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-29 04:46:36 +0000",
       "minecraft:badlands": "2025-04-29 04:14:41 +0000",
-      "minecraft:lukewarm_ocean": "2025-04-29 04:37:57 +0000"
+      "minecraft:dark_forest": "2025-04-29 04:56:17 +0000",
+      "minecraft:sparse_jungle": "2025-04-29 04:53:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-29 04:37:57 +0000",
+      "minecraft:lush_caves": "2025-04-29 04:58:07 +0000",
+      "minecraft:jungle": "2025-04-29 04:59:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-29 04:59:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {

@@ -15740,3 +15740,78 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 04:57:10.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5879ms or 117 ticks behind
 [29Apr2025 04:57:14.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
 [29Apr2025 04:57:27.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[29Apr2025 04:57:48.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5276ms or 105 ticks behind
+[29Apr2025 04:57:51.620] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1777, y=26, z=282}
+[29Apr2025 04:57:59.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 04:57:59.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 04:58:06.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[29Apr2025 04:58:08.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [The Only Good Bug...]
+[29Apr2025 04:58:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [First Age]
+[29Apr2025 04:59:53.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[29Apr2025 05:00:11.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[29Apr2025 05:00:29.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[29Apr2025 05:00:48.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3610ms or 72 ticks behind
+[29Apr2025 05:01:06.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
+[29Apr2025 05:01:25.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3929ms or 78 ticks behind
+[29Apr2025 05:01:44.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[29Apr2025 05:02:03.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[29Apr2025 05:02:12.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Li-Jing'/38196, l='ServerLevel[world]', x=2179.50, y=18.00, z=268.08] died, message: 'Li-Jing went up in flames'
+[29Apr2025 05:02:12.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Li-Jing'/38196, l='ServerLevel[world]', x=2179.50, y=18.00, z=268.08] died: Li-Jing went up in flames
+[29Apr2025 05:02:22.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3904ms or 78 ticks behind
+[29Apr2025 05:02:40.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[29Apr2025 05:02:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to sergi69420]
+[29Apr2025 05:02:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to sergi69420]
+[29Apr2025 05:03:00.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Apr2025 05:03:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Magic Writing]
+[29Apr2025 05:03:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1781.500000, 113.500000, 484.500000]
+[29Apr2025 05:03:16.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Apr2025 05:03:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[29Apr2025 05:03:33.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[29Apr2025 05:03:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Great minds think alike]
+[29Apr2025 05:03:40.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:03:40.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:03:49.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jacklyn'/49716, l='ServerLevel[world]', x=1708.77, y=92.00, z=402.26] died, message: 'Jacklyn hit the ground too hard whilst trying to escape Fire Dragon'
+[29Apr2025 05:03:49.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jacklyn'/49716, l='ServerLevel[world]', x=1708.77, y=92.00, z=402.26] died: Jacklyn was doomed to fall by Fire Dragon
+[29Apr2025 05:03:53.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4536ms or 90 ticks behind
+[29Apr2025 05:04:11.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[29Apr2025 05:04:25.590] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1475, y=3, z=703}
+[29Apr2025 05:04:30.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
+[29Apr2025 05:04:47.993] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1393, y=3, z=361}
+[29Apr2025 05:04:49.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3766ms or 75 ticks behind
+[29Apr2025 05:04:49.769] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=5, z=402}
+[29Apr2025 05:04:49.834] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1393, y=3, z=361}
+[29Apr2025 05:04:49.836] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=5, z=370}
+[29Apr2025 05:04:49.836] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=5, z=402}
+[29Apr2025 05:04:49.837] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1395, y=-9, z=391}
+[29Apr2025 05:04:51.119] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1393, y=3, z=361}
+[29Apr2025 05:04:51.182] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=5, z=352}
+[29Apr2025 05:04:51.183] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1393, y=3, z=361}
+[29Apr2025 05:04:51.184] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=5, z=370}
+[29Apr2025 05:04:56.534] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=5, z=402}
+[29Apr2025 05:04:56.729] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=5, z=370}
+[29Apr2025 05:04:56.730] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=5, z=402}
+[29Apr2025 05:04:56.730] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1387, y=5, z=387}
+[29Apr2025 05:04:56.731] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1385, y=5, z=399}
+[29Apr2025 05:04:56.816] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=5, z=352}
+[29Apr2025 05:04:56.816] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1387, y=5, z=370}
+[29Apr2025 05:04:56.817] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1388, y=5, z=370}
+[29Apr2025 05:04:56.817] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1387, y=5, z=387}
+[29Apr2025 05:05:07.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
+[29Apr2025 05:05:10.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1477, y=31, z=811}
+[29Apr2025 05:05:10.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1477, y=31, z=809}
+[29Apr2025 05:05:24.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[29Apr2025 05:05:39.251] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1305, y=-12, z=567}
+[29Apr2025 05:05:42.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[29Apr2025 05:05:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall by Lightning Dragon
+[29Apr2025 05:05:43.572] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:1896, y:77, z:220, dim:minecraft:overworld]
+[29Apr2025 05:05:43.574] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[29Apr2025 05:05:51.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 1896.500000, 77.500000, 220.500000]
+[29Apr2025 05:05:57.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to 4 targets]
+[29Apr2025 05:06:00.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[29Apr2025 05:06:11.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to ItsAyax]
+[29Apr2025 05:06:48.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Apr2025 05:06:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was struck with lightning by Lightning Dragon
+[29Apr2025 05:06:59.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player ItsAyax was created at position [x:1958, y:80, z:197, dim:minecraft:overworld]
+[29Apr2025 05:06:59.704] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[29Apr2025 05:07:13.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 1957.500000, 78.500000, 199.500000]
+[29Apr2025 05:07:19.849] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
