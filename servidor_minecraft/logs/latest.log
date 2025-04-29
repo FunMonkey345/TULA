@@ -6747,3 +6747,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 06:07:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
 [29Apr2025 06:07:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
 [29Apr2025 06:08:34.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [Just a Flesh Wound]
+[29Apr2025 06:10:01.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 06:11:47.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[29Apr2025 06:11:48.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 06:12:21.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[29Apr2025 06:12:33.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 999.500000, 96.500000, 1251.500000]
+[29Apr2025 06:12:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[29Apr2025 06:12:47.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 06:12:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 06:13:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [What a Deal!]
+[29Apr2025 06:13:38.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Juicy Success]
+[29Apr2025 06:13:51.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Best Friends Forever]
+[29Apr2025 06:14:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [It's an Emu!!!]
+[29Apr2025 06:14:35.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [What a Deal!]
+[29Apr2025 06:14:36.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [The Noble Drop]
+[29Apr2025 06:14:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Magic Writing]
+[29Apr2025 06:16:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Mutual Aid]
+[29Apr2025 06:16:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [To be or not to be]
+[29Apr2025 06:18:18.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[29Apr2025 06:18:18.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[29Apr2025 06:18:27.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:60731] logged in with entity id 102859 at (911.7187206323564, 100.0, 1277.8591893206121)
+[29Apr2025 06:18:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[29Apr2025 06:18:27.198] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[29Apr2025 06:19:18.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Apr2025 06:19:50.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
