@@ -6681,3 +6681,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 05:48:38.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
 [29Apr2025 05:48:57.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
 [29Apr2025 05:49:16.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
+[29Apr2025 05:49:38.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6597ms or 131 ticks behind
+[29Apr2025 05:49:53.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax lost connection: Disconnected
+[29Apr2025 05:49:53.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax left the game
+[29Apr2025 05:49:57.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4668ms or 93 ticks behind
+[29Apr2025 05:50:04.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAyax[/100.121.176.62:59095] logged in with entity id 85046 at (1015.0145963402191, -29.0, 949.2210128694085)
+[29Apr2025 05:50:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax joined the game
+[29Apr2025 05:50:04.561] [Server thread/INFO] [Jade/]: Syncing config to ItsAyax (7db3b1f0-044b-33b0-b5da-1d0269af2d81)
+[29Apr2025 05:50:12.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Swaggy Meal Mommy Made It]
+[29Apr2025 05:50:17.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4384ms or 87 ticks behind
+[29Apr2025 05:50:38.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5855ms or 117 ticks behind
+[29Apr2025 05:51:00.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7419ms or 148 ticks behind
+[29Apr2025 05:51:22.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to sergi69420]
+[29Apr2025 05:51:23.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8536ms or 170 ticks behind
+[29Apr2025 05:51:25.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to ItsAyax]
+[29Apr2025 05:51:30.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[29Apr2025 05:51:44.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5517ms or 110 ticks behind
+[29Apr2025 05:52:10.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Apr2025 05:52:15.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Ambush]
+[29Apr2025 05:52:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to sergi69420]
+[29Apr2025 05:52:43.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Apr2025 05:53:01.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[29Apr2025 05:53:02.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[29Apr2025 05:53:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall by Lightning Dragon
+[29Apr2025 05:53:11.559] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[29Apr2025 05:53:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 1122.500000, -0.500000, 1410.500000]
+[29Apr2025 05:53:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to 4 targets]
+[29Apr2025 05:53:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 05:53:45.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Lightning Dragon
+[29Apr2025 05:53:45.399] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[29Apr2025 05:53:47.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Creative Mode]
+[29Apr2025 05:53:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has reached the goal [Strong or Careful]
+[29Apr2025 05:53:54.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 was struck with lightning by Lightning Dragon
+[29Apr2025 05:53:54.044] [Server thread/INFO] [tombstone/]: The player sergi69420 has successfully been saved
+[29Apr2025 05:53:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 1136.500000, 5.500000, 1402.500000]
+[29Apr2025 05:54:10.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Daneg32]
+[29Apr2025 05:54:20.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[29Apr2025 05:54:21.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 fell while climbing
+[29Apr2025 05:54:21.803] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[29Apr2025 05:54:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 1145.500000, 5.500000, 1394.500000]
+[29Apr2025 05:54:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to 4 targets]
+[29Apr2025 05:55:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Mother of Dragons]
+[29Apr2025 05:57:33.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 05:57:35.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 05:57:37.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 05:57:45.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 05:57:47.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 05:57:49.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 05:58:42.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Mother of Dragons]
+[29Apr2025 05:58:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Daneg32]
+[29Apr2025 05:59:16.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Mother of Dragons]
+[29Apr2025 05:59:55.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[29Apr2025 05:59:55.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[29Apr2025 05:59:55.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.77.120.30:49990] logged in with entity id 92957 at (1102.0364072117457, 7.0, 1416.3973348435438)
+[29Apr2025 05:59:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[29Apr2025 05:59:55.933] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[29Apr2025 06:03:03.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[29Apr2025 06:06:22.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Apr2025 06:06:40.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to ItsAyax]
+[29Apr2025 06:06:40.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ItsAyax]
+[29Apr2025 06:06:40.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[29Apr2025 06:06:42.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[29Apr2025 06:07:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1052.500000, 35.500000, 1264.500000]
+[29Apr2025 06:07:18.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 06:07:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[29Apr2025 06:07:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[29Apr2025 06:08:34.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [Just a Flesh Wound]

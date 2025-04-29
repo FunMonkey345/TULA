@@ -281,6 +281,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-29 04:26:18 +0000",
       "minecraft:spider": "2025-04-29 04:29:25 +0000",
+      "minecraft:slime": "2025-04-29 05:56:55 +0000",
+      "minecraft:witch": "2025-04-29 05:52:15 +0000",
+      "minecraft:enderman": "2025-04-29 05:59:37 +0000",
       "minecraft:zombie": "2025-04-29 04:25:34 +0000",
       "minecraft:drowned": "2025-04-29 04:42:12 +0000"
     },
@@ -415,6 +418,12 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-04-29 04:19:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 05:54:13 +0000"
     },
     "done": true
   },
@@ -917,6 +926,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-29 05:54:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-04-29 04:36:46 +0000"
@@ -935,6 +950,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 05:53:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-29 04:19:28 +0000"
@@ -950,6 +971,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-04-29 04:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 05:52:16 +0000"
     },
     "done": true
   },
@@ -1710,6 +1737,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 05:52:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-04-29 04:14:40 +0000"
@@ -1914,6 +1947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 05:52:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-04-29 05:10:33 +0000"
@@ -1985,6 +2024,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-29 04:33:07 +0000",
+      "glow_berries": "2025-04-29 05:59:20 +0000",
       "melon_slice": "2025-04-29 04:44:47 +0000"
     },
     "done": false
