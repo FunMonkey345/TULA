@@ -16010,3 +16010,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Apr2025 05:37:54.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [29Apr2025 05:37:59.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
 [29Apr2025 05:38:30.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/77164, l='ServerLevel[world]', x=1032.37, y=-31.00, z=973.70] died: Guardian Warrior was slain by Juan123
+[29Apr2025 05:41:22.518] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=127}
+[29Apr2025 05:41:22.518] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=128}
+[29Apr2025 05:41:26.249] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Apr2025 05:41:26.308] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Apr2025 05:41:26.308] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Apr2025 05:41:26.308] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=127}
+[29Apr2025 05:41:26.308] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=135}
+[29Apr2025 05:42:25.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:42:25.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:42:40.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Diamonds!]
+[29Apr2025 05:42:51.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/77089, l='ServerLevel[world]', x=1053.02, y=-13.00, z=993.03] died: Guardian Warrior was slain by Juan123
+[29Apr2025 05:42:59.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/80382, l='ServerLevel[world]', x=1056.29, y=-14.50, z=993.26] died: Guardian Warrior was slain by Juan123
+[29Apr2025 05:43:22.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Local Brewery]
+[29Apr2025 05:43:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Town of Bedrock]
+[29Apr2025 05:43:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Guardian Warrior using [Sword of a Guardian Warrior]
+[29Apr2025 05:43:50.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:1046, y:-30, z:993, dim:minecraft:overworld]
+[29Apr2025 05:43:50.219] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[29Apr2025 05:43:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 1046.500000, -29.500000, 993.500000]
+[29Apr2025 05:44:17.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[29Apr2025 05:44:26.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Apr2025 05:44:35.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[29Apr2025 05:44:44.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[29Apr2025 05:45:04.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Apr2025 05:45:23.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[29Apr2025 05:45:23.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/80659, l='ServerLevel[world]', x=1055.29, y=-26.98, z=997.35] died: Guardian Warrior was slain by Juan123
+[29Apr2025 05:45:36.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Chest Slayer]
+[29Apr2025 05:45:41.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[29Apr2025 05:46:00.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
+[29Apr2025 05:46:18.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3524ms or 70 ticks behind
+[29Apr2025 05:46:35.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[29Apr2025 05:46:52.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[29Apr2025 05:47:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Removed effect Jump Boost from ItsAyax]
+[29Apr2025 05:47:10.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2996ms or 59 ticks behind
+[29Apr2025 05:47:28.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[29Apr2025 05:47:35.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [You Monster...]
+[29Apr2025 05:47:45.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[29Apr2025 05:47:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Removed effect Jump Boost from ItsAyax]
+[29Apr2025 05:48:00.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:48:00.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:48:04.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3499ms or 69 ticks behind
+[29Apr2025 05:48:17.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[29Apr2025 05:48:20.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Gave 1 [Milk Bucket] to ItsAyax]
+[29Apr2025 05:48:21.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[29Apr2025 05:48:38.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[29Apr2025 05:48:57.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
+[29Apr2025 05:49:16.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind

@@ -4214,6 +4214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-29 05:44:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
       "has_item": "2025-04-29 04:54:23 +0000"
@@ -4235,6 +4241,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:ancient_note": {
+    "criteria": {
+      "requirement": "2025-04-29 05:38:05 +0000"
     },
     "done": true
   },
@@ -4271,6 +4283,12 @@
   "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
       "has_item": "2025-04-29 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-29 05:44:46 +0000"
     },
     "done": true
   },
@@ -4343,6 +4361,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-29 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 05:44:46 +0000"
     },
     "done": true
   },
@@ -4661,6 +4685,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-04-29 05:26:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-04-29 05:43:22 +0000"
     },
     "done": true
   },
