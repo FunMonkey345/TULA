@@ -11176,3 +11176,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01May2025 08:13:18.101] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [01May2025 08:15:28.343] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
 [01May2025 08:16:01.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[01May2025 08:17:45.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 08:17:45.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 08:18:48.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 08:19:49.691] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 08:19:53.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 08:20:41.795] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 08:21:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> mis viejos se despertaron asi que tengo que pasar a modo stealth
+[01May2025 08:21:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ale
+[01May2025 08:22:45.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 08:22:45.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 08:23:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -405.500000, 56.500000, -235.500000]
+[01May2025 08:23:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -405.500000, 89.500000, -245.500000]
+[01May2025 08:23:45.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Fetch Me Their Souls!]
+[01May2025 08:26:00.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -405.500000, 89.500000, -246.500000]
+[01May2025 08:26:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> si
+[01May2025 08:26:52.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> de lo mejorcito que hay

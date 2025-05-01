@@ -659,6 +659,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-01 07:09:26 +0000",
       "minecraft:skeleton": "2025-04-28 02:58:02 +0000",
+      "minecraft:ghast": "2025-05-01 08:20:45 +0000",
       "minecraft:hoglin": "2025-05-01 07:35:31 +0000",
       "minecraft:vindicator": "2025-05-01 07:10:49 +0000",
       "minecraft:spider": "2025-04-28 02:06:17 +0000",
@@ -5479,6 +5480,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-01 08:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-01 08:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-05-01 07:16:26 +0000"
@@ -5644,6 +5657,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-01 07:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-01 08:16:14 +0000"
     },
     "done": true
   },
@@ -5818,6 +5837,12 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-05-01 07:16:33 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-01 08:15:29 +0000"
     },
     "done": true
   },
