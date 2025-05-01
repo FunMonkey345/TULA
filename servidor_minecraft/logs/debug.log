@@ -10995,3 +10995,129 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01May2025 06:45:38.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 06:45:38.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 06:45:41.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
+[01May2025 06:46:03.091] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01May2025 06:46:04.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7543ms or 150 ticks behind
+[01May2025 06:46:24.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5297ms or 105 ticks behind
+[01May2025 06:46:42.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[01May2025 06:47:01.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[01May2025 06:47:19.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[01May2025 06:47:37.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
+[01May2025 06:47:57.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[01May2025 06:48:16.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4190ms or 83 ticks behind
+[01May2025 06:48:34.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[01May2025 06:48:52.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
+[01May2025 06:49:10.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Artúr'/26516, l='ServerLevel[world]', x=-313.53, y=90.00, z=2783.33] died, message: 'Artúr was slain by Juan123'
+[01May2025 06:49:10.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Artúr'/26516, l='ServerLevel[world]', x=-313.53, y=90.00, z=2783.33] died: Artúr was slain by Juan123
+[01May2025 06:49:10.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[01May2025 06:49:52.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01May2025 06:50:09.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[01May2025 06:50:28.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3483ms or 69 ticks behind
+[01May2025 06:50:34.009] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31582, l='ServerLevel[world]', x=-928.19, y=48.39, z=2861.14]
+[01May2025 06:50:34.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31583, l='ServerLevel[world]', x=-928.19, y=48.39, z=2861.14]
+[01May2025 06:50:34.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31584, l='ServerLevel[world]', x=-928.19, y=48.39, z=2861.14]
+[01May2025 06:50:34.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31585, l='ServerLevel[world]', x=-928.19, y=48.39, z=2861.14]
+[01May2025 06:50:34.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31586, l='ServerLevel[world]', x=-928.19, y=48.39, z=2861.14]
+[01May2025 06:50:45.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[01May2025 06:50:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> zzzzzzzzzzzzzz
+[01May2025 06:51:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set the time to 1000]
+[01May2025 06:51:04.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3901ms or 78 ticks behind
+[01May2025 06:51:23.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
+[01May2025 06:51:42.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[01May2025 06:51:47.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 06:51:47.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 06:52:02.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5065ms or 101 ticks behind
+[01May2025 06:52:19.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[01May2025 06:52:37.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[01May2025 06:52:55.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[01May2025 06:53:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 drowned
+[01May2025 06:53:07.932] [Server thread/DEBUG] [tombstone/]: A new grave of the player sergi69420 was created at position [x:-694, y:40, z:2754, dim:minecraft:overworld]
+[01May2025 06:53:07.949] [Server thread/INFO] [tombstone/]: The player sergi69420 has successfully been saved
+[01May2025 06:54:24.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -694.500000, 40.500000, 2754.500000]
+[01May2025 06:54:43.279] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01May2025 06:54:58.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01May2025 06:55:15.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[01May2025 06:55:32.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[01May2025 06:55:50.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[01May2025 06:55:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[01May2025 06:57:07.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 06:57:07.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 06:59:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Applied effect Night Vision to sergi69420]
+[01May2025 06:59:24.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Crime in Town]
+[01May2025 07:01:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[01May2025 07:01:59.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set the time to 1000]
+[01May2025 07:02:07.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:02:07.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:05:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to sergi69420]
+[01May2025 07:06:06.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -290.500000, 81.500000, 2471.500000]
+[01May2025 07:06:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -306.500000, 83.500000, 2476.500000]
+[01May2025 07:07:07.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:07:07.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:07:44.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -294.500000, 104.500000, 2470.500000]
+[01May2025 07:09:09.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Hunted]
+[01May2025 07:09:52.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ellina'/33787, l='ServerLevel[world]', x=-234.60, y=113.00, z=2491.15] died, message: 'Ellina was shot by Pillager'
+[01May2025 07:09:52.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ellina'/33787, l='ServerLevel[world]', x=-234.60, y=113.00, z=2491.15] died: Ellina was shot by Pillager
+[01May2025 07:11:36.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set the time to 1000]
+[01May2025 07:11:56.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We Need to Go Deeper]
+[01May2025 07:11:58.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[01May2025 07:12:11.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:12:11.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:12:47.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
+[01May2025 07:14:18.690] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[01May2025 07:14:18.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 3 [Mangrove Planks] to Juan123]
+[01May2025 07:14:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Spectator Mode]
+[01May2025 07:15:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 3 [Spruce Planks] to Juan123]
+[01May2025 07:15:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[01May2025 07:16:26.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 3 [Crimson Planks] to Juan123]
+[01May2025 07:16:33.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Quite the Walking Stick]
+[01May2025 07:16:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [No Longer Short-Staffed]
+[01May2025 07:17:14.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:17:14.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:22:14.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:22:14.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:26:24.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Applied effect Night Vision to 3 targets]
+[01May2025 07:27:14.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:27:14.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:27:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 64 [Bread] to 3]
+[01May2025 07:29:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the weather to clear]
+[01May2025 07:32:14.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:32:14.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:32:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -71.500000, 89.500000, 101.500000]
+[01May2025 07:33:05.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[01May2025 07:33:09.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Nightmare Fuel]
+[01May2025 07:33:23.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[01May2025 07:33:41.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[01May2025 07:33:58.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01May2025 07:34:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Mine? Mine? Mine?]
+[01May2025 07:34:14.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -180.500000, 103.500000, -1.500000]
+[01May2025 07:34:15.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[01May2025 07:34:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 1 [Bone] to Daneg32]
+[01May2025 07:34:34.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01May2025 07:34:35.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 1 [Bone] to Daneg32]
+[01May2025 07:34:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Dragon Growth Hormone]
+[01May2025 07:34:51.313] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:35:11.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[01May2025 07:35:31.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:35:34.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:36:42.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:37:30.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:37:30.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:37:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -250.500000, 95.500000, 29.500000]
+[01May2025 07:37:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -318.500000, 101.500000, -1.500000]
+[01May2025 07:37:57.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -411.500000, 93.500000, -32.500000]
+[01May2025 07:38:11.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:38:37.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Hot Stuff]
+[01May2025 07:39:06.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:39:22.663] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:39:23.783] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:39:32.855] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:40:04.662] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:40:13.665] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:41:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -264.500000, 94.500000, -212.500000]
+[01May2025 07:41:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -207.500000, 95.500000, -204.500000]
+[01May2025 07:42:30.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 07:42:30.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 07:42:33.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -363.500000, 73.500000, 2671.500000]
+[01May2025 07:42:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -339.500000, 63.500000, 2416.500000]
+[01May2025 07:44:38.609] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01May2025 07:46:19.684] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[01May2025 07:46:19.684] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdbb22b7$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
