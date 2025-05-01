@@ -663,6 +663,7 @@
       "minecraft:ghast": "2025-05-01 08:20:45 +0000",
       "minecraft:hoglin": "2025-05-01 07:35:31 +0000",
       "minecraft:vindicator": "2025-05-01 07:10:49 +0000",
+      "minecraft:magma_cube": "2025-05-01 08:35:17 +0000",
       "minecraft:spider": "2025-04-28 02:06:17 +0000",
       "minecraft:piglin_brute": "2025-05-01 07:59:11 +0000",
       "minecraft:creeper": "2025-04-28 03:18:34 +0000",
@@ -5435,9 +5436,10 @@
       "minecraft:crimson_forest": "2025-05-01 07:32:46 +0000",
       "minecraft:nether_wastes": "2025-05-01 07:11:59 +0000",
       "minecraft:soul_sand_valley": "2025-05-01 07:41:15 +0000",
+      "minecraft:basalt_deltas": "2025-05-01 08:38:33 +0000",
       "minecraft:warped_forest": "2025-05-01 07:32:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
@@ -5598,6 +5600,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-01 08:34:50 +0000"
     },
     "done": true
   },
