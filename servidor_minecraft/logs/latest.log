@@ -2177,3 +2177,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01May2025 08:55:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -300.500000, 63.500000, 2418.500000]
 [01May2025 08:55:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -415.500000, 63.500000, 2495.500000]
 [01May2025 08:57:50.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -352.500000, 51.500000, 2489.500000]
+[01May2025 08:58:41.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergi69420 moved wrongly!
+[01May2025 08:59:32.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergi69420 moved wrongly!
+[01May2025 09:02:18.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has completed the challenge [Just a Flesh Wound]
+[01May2025 09:04:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -288.500000, 116.500000, 2461.500000]
+[01May2025 09:04:33.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergi69420 lost connection: Disconnected
+[01May2025 09:04:33.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 left the game
