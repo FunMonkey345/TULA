@@ -454,6 +454,7 @@
       "golden_apple": "2025-04-28 04:55:17 +0000",
       "rotten_flesh": "2025-04-28 03:42:12 +0000",
       "glow_berries": "2025-04-28 05:58:54 +0000",
+      "salmon": "2025-05-01 08:50:00 +0000",
       "golden_carrot": "2025-04-28 01:59:11 +0000"
     },
     "done": false
@@ -5419,6 +5420,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2025-05-01 07:57:55 +0000"
@@ -5603,6 +5610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-05-01 08:34:50 +0000"
@@ -5711,6 +5724,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
@@ -5801,6 +5820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
@@ -5858,6 +5883,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
     },
     "done": true
   },
