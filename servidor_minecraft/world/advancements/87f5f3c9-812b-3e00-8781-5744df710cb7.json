@@ -324,6 +324,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-28 06:34:23 +0000",
+      "minecraft:eroded_badlands": "2025-05-02 06:56:07 +0000",
       "minecraft:frozen_river": "2025-05-02 03:35:28 +0000",
       "minecraft:cherry_grove": "2025-04-28 04:01:17 +0000",
       "minecraft:sunflower_plains": "2025-05-02 03:12:49 +0000",
@@ -6728,6 +6729,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-05-02 04:21:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-05-02 06:51:56 +0000"
     },
     "done": true
   },
