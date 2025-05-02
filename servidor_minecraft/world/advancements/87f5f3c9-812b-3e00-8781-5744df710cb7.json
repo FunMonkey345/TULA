@@ -325,6 +325,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-28 06:34:23 +0000",
       "minecraft:cherry_grove": "2025-04-28 04:01:17 +0000",
+      "minecraft:sunflower_plains": "2025-05-02 03:12:49 +0000",
       "minecraft:wooded_badlands": "2025-04-28 01:58:28 +0000",
       "minecraft:bamboo_jungle": "2025-04-29 04:43:50 +0000",
       "minecraft:badlands": "2025-04-28 01:16:40 +0000",
@@ -5414,55 +5415,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-01 08:49:22 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/allurite_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-05-01 07:57:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-05-01 07:32:46 +0000",
-      "minecraft:nether_wastes": "2025-05-01 07:11:59 +0000",
-      "minecraft:soul_sand_valley": "2025-05-01 07:41:15 +0000",
-      "minecraft:basalt_deltas": "2025-05-01 08:38:33 +0000",
-      "minecraft:warped_forest": "2025-05-01 07:32:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed_by": "2025-05-01 08:23:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
     },
     "done": true
   },
@@ -5472,21 +5427,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/mangrove_wine_rack_small": {
-    "criteria": {
-      "has_mangrove_planks": "2025-05-01 07:14:18 +0000"
     },
     "done": true
   },
@@ -5496,51 +5439,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-05-01 08:16:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-01 08:24:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-01 08:21:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-01 06:44:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2025-05-01 07:16:26 +0000"
     },
     "done": true
   },
@@ -5553,18 +5454,6 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-01 07:35:32 +0000"
     },
     "done": true
   },
@@ -5592,12 +5481,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "smoked_ham": "2025-05-01 07:57:53 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
@@ -5610,75 +5493,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-05-01 08:49:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-05-01 08:34:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_hoglin_stable": "2025-05-01 07:57:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-01 06:43:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_sign": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-05-01 07:57:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/mangrove_wine_rack_big": {
-    "criteria": {
-      "has_mangrove_planks": "2025-05-01 07:14:18 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-05-01 07:35:32 +0000"
     },
     "done": true
   },
@@ -5688,45 +5505,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-01 07:51:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-01 08:16:14 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
-    "criteria": {
-      "requirement": "2025-05-01 08:04:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2025-05-01 07:59:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 08:49:22 +0000"
     },
     "done": true
   },
@@ -5736,45 +5517,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-05-01 08:24:59 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed": "2025-05-01 07:33:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-05-01 07:57:55 +0000"
     },
     "done": true
   },
@@ -5784,45 +5529,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-05-01 07:11:56 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_artificer": {
-    "criteria": {
-      "requirement": "2025-05-01 07:16:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:14:18 +0000"
-    },
-    "done": true
-  },
-  "mca:hunted": {
-    "criteria": {
-      "iron": "2025-05-01 07:09:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 07:35:32 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-01 08:49:22 +0000"
     },
     "done": true
   },
@@ -5844,33 +5553,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-01 07:35:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 07:35:32 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
     },
     "done": true
   },
@@ -5886,33 +5571,139 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
-      "has_salmon": "2025-05-01 08:49:22 +0000"
+      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
-      "requirement": "2025-05-01 07:16:33 +0000"
+      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
     },
     "done": true
   },
-  "brewery:recipes/pork_knuckle": {
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
-      "has_cooked_porkchop": "2025-05-01 08:15:29 +0000"
+      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mangrove_fence": {
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
-      "has_planks": "2025-05-01 07:14:18 +0000"
+      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-01 06:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-01 06:43:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-01 06:44:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 06:59:24 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-05-01 07:09:09 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-01 07:09:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-01 07:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-01 07:11:56 +0000"
     },
     "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-01 07:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-01 07:32:46 +0000",
+      "minecraft:nether_wastes": "2025-05-01 07:11:59 +0000",
+      "minecraft:soul_sand_valley": "2025-05-01 07:41:15 +0000",
+      "minecraft:basalt_deltas": "2025-05-01 08:38:33 +0000",
+      "minecraft:warped_forest": "2025-05-01 07:32:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-01 07:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:14:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_big": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-01 07:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:14:18 +0000"
     },
     "done": true
   },
@@ -5934,63 +5725,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-01 08:24:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-05-01 07:14:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-01 07:16:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/crime_in_town": {
-    "criteria": {
-      "coded_trigger": "2025-05-01 06:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-01 07:56:57 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
     },
     "done": true
   },
@@ -6000,33 +5737,297 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
-      "has_upgrade_base": "2025-05-01 06:41:39 +0000"
+      "has_planks": "2025-05-01 07:16:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
-      "has_iron_block": "2025-05-01 06:43:45 +0000"
+      "has_planks": "2025-05-01 07:16:26 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+  "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
-      "has_silver_nugget": "2025-05-01 07:09:27 +0000"
+      "has_planks": "2025-05-01 07:16:26 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/silver_ingot_from_nuggets": {
+  "create:recipes/building_blocks/crimson_window": {
     "criteria": {
-      "has_silver_nugget": "2025-05-01 07:09:27 +0000"
+      "has_ingredient": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-05-01 07:16:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-05-01 07:16:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-05-01 07:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-01 07:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 07:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-01 07:57:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-05-01 07:57:53 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2025-05-01 07:57:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-01 07:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-01 07:57:55 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-01 07:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-05-01 07:59:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-05-01 08:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-01 08:12:25 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-01 08:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-01 08:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-01 08:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-01 08:21:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-05-01 08:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 08:24:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-01 08:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 08:24:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-01 08:34:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 08:49:22 +0000"
     },
     "done": true
   },

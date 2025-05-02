@@ -448,3 +448,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02May2025 03:05:32.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.77.120.30:51965] logged in with entity id 3683 at (-395.65131987902186, 73.0, 2429.90911651519)
 [02May2025 03:05:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
 [02May2025 03:05:32.365] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[02May2025 03:12:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -593.500000, 69.500000, 2609.500000]
