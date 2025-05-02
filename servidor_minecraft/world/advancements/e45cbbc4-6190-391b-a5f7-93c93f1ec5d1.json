@@ -323,6 +323,7 @@
       "minecraft:bamboo_jungle": "2025-04-29 04:46:36 +0000",
       "minecraft:wooded_badlands": "2025-04-29 05:16:31 +0000",
       "minecraft:badlands": "2025-04-29 04:14:41 +0000",
+      "minecraft:savanna_plateau": "2025-05-02 06:31:41 +0000",
       "minecraft:beach": "2025-04-29 06:55:29 +0000",
       "minecraft:dark_forest": "2025-04-29 04:56:17 +0000",
       "minecraft:sparse_jungle": "2025-04-29 04:53:25 +0000",
@@ -3391,6 +3392,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-02 06:24:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-05-02 06:10:30 +0000"
@@ -3457,15 +3464,33 @@
     },
     "done": true
   },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-02 06:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-02 05:57:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-02 06:23:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-02 06:11:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-02 06:25:27 +0000"
     },
     "done": true
   },

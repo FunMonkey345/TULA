@@ -970,6 +970,7 @@
       "minecraft:skeleton": "2025-04-28 03:23:39 +0000",
       "minecraft:spider": "2025-04-28 03:56:23 +0000",
       "minecraft:creeper": "2025-04-28 05:04:42 +0000",
+      "minecraft:zombified_piglin": "2025-05-02 06:25:44 +0000",
       "minecraft:witch": "2025-04-29 04:35:17 +0000",
       "minecraft:cave_spider": "2025-04-29 05:37:21 +0000",
       "minecraft:enderman": "2025-04-29 05:57:10 +0000",
@@ -5886,6 +5887,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-02 03:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 06:25:14 +0000"
     },
     "done": true
   },
