@@ -9440,3 +9440,60 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02May2025 05:30:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -655.500000, 30.500000, -587.500000]
 [02May2025 05:30:35.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10270ms or 205 ticks behind
 [02May2025 05:30:59.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8815ms or 176 ticks behind
+[02May2025 05:31:24.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10107ms or 202 ticks behind
+[02May2025 05:31:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 burned to death
+[02May2025 05:31:32.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player sergi69420 was created at position [x:-619, y:40, z:-532, dim:minecraft:the_nether]
+[02May2025 05:31:32.178] [Server thread/INFO] [tombstone/]: The player sergi69420 has successfully been saved
+[02May2025 05:31:48.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9268ms or 185 ticks behind
+[02May2025 05:31:52.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -396.500000, 63.500000, 2390.500000]
+[02May2025 05:32:14.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11071ms or 221 ticks behind
+[02May2025 05:32:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -617.500000, 94.500000, -528.500000]
+[02May2025 05:32:22.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -618.500000, 46.500000, -535.500000]
+[02May2025 05:32:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -589.500000, 101.500000, -500.500000]
+[02May2025 05:32:39.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9600ms or 192 ticks behind
+[02May2025 05:33:04.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9915ms or 198 ticks behind
+[02May2025 05:33:28.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9640ms or 192 ticks behind
+[02May2025 05:33:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -599.500000, 117.500000, -526.500000]
+[02May2025 05:33:52.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9302ms or 186 ticks behind
+[02May2025 05:34:05.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -586.500000, 99.500000, -501.500000]
+[02May2025 05:34:16.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
+[02May2025 05:34:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -600.500000, 113.500000, -527.500000]
+[02May2025 05:34:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -579.500000, 104.500000, -472.500000]
+[02May2025 05:34:41.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 05:34:41.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 05:34:41.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10042ms or 200 ticks behind
+[02May2025 05:35:02.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -624.500000, 93.500000, -510.500000]
+[02May2025 05:35:08.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11486ms or 229 ticks behind
+[02May2025 05:35:25.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -638.500000, 95.500000, -484.500000]
+[02May2025 05:35:33.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9943ms or 198 ticks behind
+[02May2025 05:35:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -569.500000, 81.500000, -559.500000]
+[02May2025 05:35:56.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to sergi69420]
+[02May2025 05:35:58.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9758ms or 195 ticks behind
+[02May2025 05:35:59.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by sergi69420
+[02May2025 05:35:59.018] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-633, y:43, z:-550, dim:minecraft:the_nether]
+[02May2025 05:35:59.041] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[02May2025 05:36:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -395.500000, 63.500000, 2386.500000]
+[02May2025 05:36:23.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10052ms or 201 ticks behind
+[02May2025 05:36:28.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -632.500000, 43.500000, -549.500000]
+[02May2025 05:36:31.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -661.500000, 34.500000, -562.500000]
+[02May2025 05:36:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -669.500000, 36.500000, -566.500000]
+[02May2025 05:36:48.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10834ms or 216 ticks behind
+[02May2025 05:37:12.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8521ms or 170 ticks behind
+[02May2025 05:37:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -639.500000, 95.500000, -600.500000]
+[02May2025 05:37:35.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8053ms or 161 ticks behind
+[02May2025 05:37:38.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -771.500000, 38.500000, -678.500000]
+[02May2025 05:37:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has completed the challenge [Hot Tourist Destinations]
+[02May2025 05:38:01.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10604ms or 212 ticks behind
+[02May2025 05:38:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -631.500000, 98.500000, -600.500000]
+[02May2025 05:38:26.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10742ms or 214 ticks behind
+[02May2025 05:38:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -42.500000, 47.500000, 11.500000]
+[02May2025 05:38:51.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9814ms or 196 ticks behind
+[02May2025 05:39:17.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11070ms or 221 ticks behind
+[02May2025 05:39:43.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10506ms or 210 ticks behind
+[02May2025 05:40:09.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11107ms or 222 ticks behind
+[02May2025 05:40:22.143] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02May2025 05:40:34.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10595ms or 211 ticks behind
+[02May2025 05:41:00.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10580ms or 211 ticks behind
+[02May2025 05:41:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -757.500000, 73.500000, -604.500000]
+[02May2025 05:41:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Straddler]
+[02May2025 05:41:26.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11075ms or 221 ticks behind

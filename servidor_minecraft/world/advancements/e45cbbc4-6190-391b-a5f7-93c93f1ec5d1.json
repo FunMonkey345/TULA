@@ -997,6 +997,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-29 04:26:18 +0000",
+      "minecraft:magma_cube": "2025-05-02 05:30:51 +0000",
       "minecraft:spider": "2025-04-29 04:29:25 +0000",
       "minecraft:slime": "2025-04-29 05:56:55 +0000",
       "minecraft:zombified_piglin": "2025-05-02 05:16:31 +0000",
@@ -3222,6 +3223,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-02 05:22:24 +0000",
       "minecraft:nether_wastes": "2025-05-02 05:15:12 +0000",
+      "minecraft:basalt_deltas": "2025-05-02 05:26:58 +0000",
       "minecraft:warped_forest": "2025-05-02 05:22:14 +0000"
     },
     "done": false
@@ -3250,9 +3252,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-05-02 05:27:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-05-02 04:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-02 05:30:57 +0000"
     },
     "done": true
   },
