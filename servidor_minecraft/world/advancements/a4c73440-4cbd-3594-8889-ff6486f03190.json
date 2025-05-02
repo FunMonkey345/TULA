@@ -5931,6 +5931,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-05-02 03:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-02 03:34:43 +0000"
