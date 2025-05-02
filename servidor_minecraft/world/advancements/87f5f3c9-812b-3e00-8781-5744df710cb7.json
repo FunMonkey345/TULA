@@ -6214,6 +6214,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2025-05-02 06:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-02 03:53:49 +0000"
@@ -6253,6 +6259,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-02 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2025-05-02 06:39:25 +0000"
     },
     "done": true
   },
@@ -6385,6 +6397,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-02 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2025-05-02 06:39:25 +0000"
     },
     "done": true
   },
@@ -6745,6 +6763,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-02 03:35:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2025-05-02 06:39:25 +0000"
     },
     "done": true
   },

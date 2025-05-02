@@ -5878,6 +5878,12 @@
     },
     "done": false
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-05-02 06:34:58 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-05-02 05:17:34 +0000"
@@ -6187,6 +6193,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-02 06:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-02 06:36:52 +0000"
     },
     "done": true
   },
