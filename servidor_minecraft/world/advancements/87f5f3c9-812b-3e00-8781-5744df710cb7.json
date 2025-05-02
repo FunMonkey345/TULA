@@ -457,6 +457,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-01 08:25:50 +0000",
       "beef": "2025-04-28 04:05:30 +0000",
+      "porkchop": "2025-05-02 04:49:48 +0000",
       "potato": "2025-04-28 06:06:36 +0000",
       "bread": "2025-04-28 02:21:39 +0000",
       "golden_apple": "2025-04-28 04:55:17 +0000",
@@ -6428,6 +6429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 04:51:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-02 04:25:27 +0000"
@@ -6515,6 +6522,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-05-02 04:05:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-05-02 04:54:03 +0000"
     },
     "done": true
   },
