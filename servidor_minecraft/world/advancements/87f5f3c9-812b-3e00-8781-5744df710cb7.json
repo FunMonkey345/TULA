@@ -6226,6 +6226,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddle_saddle": {
+    "criteria": {
+      "straddleboard": "2025-05-02 06:00:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-02 03:50:21 +0000"
