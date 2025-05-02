@@ -345,6 +345,7 @@
       "minecraft:lush_caves": "2025-04-28 06:20:17 +0000",
       "minecraft:frozen_ocean": "2025-05-02 03:44:57 +0000",
       "minecraft:desert": "2025-04-28 06:47:08 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-02 04:16:10 +0000",
       "minecraft:jungle": "2025-04-28 07:00:00 +0000",
       "minecraft:ocean": "2025-04-28 06:43:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-28 06:20:48 +0000",
@@ -6072,6 +6073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-02 04:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-05-02 03:35:59 +0000"
@@ -6234,6 +6241,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-02 04:17:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-05-02 04:05:09 +0000"
@@ -6264,9 +6277,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-02 04:17:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-05-02 03:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-02 04:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-02 04:17:44 +0000"
     },
     "done": true
   },
@@ -6363,6 +6394,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-05-02 03:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-02 04:17:43 +0000"
     },
     "done": true
   },
