@@ -5908,6 +5908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-02 06:25:14 +0000"
@@ -5926,6 +5932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_bow_nether": {
     "criteria": {
       "gobber2_bow_nether": "2025-05-02 06:17:02 +0000"
@@ -5941,6 +5953,12 @@
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-05-02 05:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
     },
     "done": true
   },
@@ -5989,6 +6007,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-05-02 06:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
     },
     "done": true
   },
@@ -6052,6 +6076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-02 05:17:34 +0000"
@@ -6097,6 +6133,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-02 06:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 07:10:23 +0000"
     },
     "done": true
   },
@@ -6232,6 +6274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-02 03:34:43 +0000"
@@ -6247,6 +6295,18 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-05-02 06:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 07:10:23 +0000"
     },
     "done": true
   },
@@ -6274,9 +6334,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_rod_nether": {
     "criteria": {
       "gobber2_rod_nether": "2025-05-02 06:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
     },
     "done": true
   },
@@ -6295,6 +6367,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-02 06:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 07:06:43 +0000"
     },
     "done": true
   },
