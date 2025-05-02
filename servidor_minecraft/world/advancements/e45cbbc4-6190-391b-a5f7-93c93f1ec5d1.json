@@ -3223,14 +3223,21 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-02 05:22:24 +0000",
       "minecraft:nether_wastes": "2025-05-02 05:15:12 +0000",
+      "minecraft:soul_sand_valley": "2025-05-02 05:37:39 +0000",
       "minecraft:basalt_deltas": "2025-05-02 05:26:58 +0000",
       "minecraft:warped_forest": "2025-05-02 05:22:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-05-02 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 05:38:18 +0000"
     },
     "done": true
   },
@@ -3264,9 +3271,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-02 05:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-02 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-02 05:39:25 +0000"
     },
     "done": true
   },
@@ -3327,6 +3346,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-02 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 05:38:18 +0000"
     },
     "done": true
   },
