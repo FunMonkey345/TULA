@@ -1001,6 +1001,7 @@
       "minecraft:slime": "2025-04-29 05:56:55 +0000",
       "minecraft:zombified_piglin": "2025-05-02 05:16:31 +0000",
       "minecraft:witch": "2025-04-29 05:52:15 +0000",
+      "minecraft:piglin": "2025-05-02 05:26:05 +0000",
       "minecraft:enderman": "2025-04-29 05:59:37 +0000",
       "minecraft:zombie": "2025-04-29 04:25:34 +0000",
       "minecraft:drowned": "2025-04-29 04:42:12 +0000"
@@ -3219,7 +3220,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-05-02 05:15:12 +0000"
+      "minecraft:crimson_forest": "2025-05-02 05:22:24 +0000",
+      "minecraft:nether_wastes": "2025-05-02 05:15:12 +0000",
+      "minecraft:warped_forest": "2025-05-02 05:22:14 +0000"
     },
     "done": false
   },
@@ -3250,6 +3253,12 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-05-02 04:50:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-02 05:23:19 +0000"
     },
     "done": true
   },
