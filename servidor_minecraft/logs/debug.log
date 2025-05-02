@@ -8630,3 +8630,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02May2025 03:58:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Cyclops
 [02May2025 03:58:23.618] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [02May2025 03:58:31.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -674.500000, 71.500000, 3799.500000]
+[02May2025 03:59:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [My Name is Nobody]
+[02May2025 04:02:13.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 04:02:13.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 04:02:38.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02May2025 04:03:05.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02May2025 04:04:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> 7time set day
+[02May2025 04:04:42.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[02May2025 04:05:38.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Powder Snow Walk]
+[02May2025 04:07:17.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 04:07:17.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
