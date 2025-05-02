@@ -10220,3 +10220,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02May2025 06:42:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to sergi69420]
 [02May2025 06:43:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Birds of a Feather]
 [02May2025 06:43:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 5 [Bottle o' Enchanting] to Juan123]
+[02May2025 06:44:40.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 06:44:41.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 06:45:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -295.500000, 106.500000, 2463.500000]
+[02May2025 06:46:00.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ljuba'/172904, l='ServerLevel[world]', x=-373.28, y=96.00, z=2152.47] died, message: 'Ljuba was slain by Zombie'
+[02May2025 06:46:00.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ljuba'/172904, l='ServerLevel[world]', x=-373.28, y=96.00, z=2152.47] died: Ljuba was slain by Zombie
+[02May2025 06:46:53.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02May2025 06:48:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02May2025 06:49:08.871] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=127}
+[02May2025 06:49:08.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=128}
+[02May2025 06:49:12.425] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 06:49:12.425] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 06:49:12.426] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=127}
+[02May2025 06:49:12.427] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=135}
+[02May2025 06:49:12.444] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 06:49:14.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02May2025 06:49:43.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 06:49:43.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 06:49:58.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02May2025 06:50:08.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -613.500000, 72.500000, 2104.500000]
+[02May2025 06:50:15.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02May2025 06:50:33.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02May2025 06:50:52.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
+[02May2025 06:51:13.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[02May2025 06:51:33.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[02May2025 06:51:54.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6374ms or 127 ticks behind
+[02May2025 06:51:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Praise the Sun]
+[02May2025 06:52:17.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7215ms or 144 ticks behind
+[02May2025 06:52:42.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10176ms or 203 ticks behind
+[02May2025 06:53:06.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9365ms or 187 ticks behind
+[02May2025 06:53:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -563.500000, 107.500000, 2955.500000]
+[02May2025 06:53:28.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7398ms or 147 ticks behind
+[02May2025 06:53:50.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6140ms or 122 ticks behind
+[02May2025 06:54:00.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02May2025 06:54:08.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3890ms or 77 ticks behind
+[02May2025 06:54:24.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02May2025 06:54:26.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02May2025 06:54:32.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [A True Source of Evil]
+[02May2025 06:54:45.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4674ms or 93 ticks behind
