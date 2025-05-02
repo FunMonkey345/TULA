@@ -449,3 +449,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02May2025 03:05:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
 [02May2025 03:05:32.365] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
 [02May2025 03:12:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -593.500000, 69.500000, 2609.500000]
+[02May2025 03:17:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02May2025 03:21:27.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -571.500000, 91.500000, 2843.500000]
+[02May2025 03:22:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Who is Cutting Onions?]
+[02May2025 03:26:35.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02May2025 03:26:53.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3577ms or 71 ticks behind
+[02May2025 03:27:13.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4827ms or 96 ticks behind
+[02May2025 03:27:32.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> estiy haciendi una vaina
+[02May2025 03:27:32.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
+[02May2025 03:27:34.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> estoy muteado
+[02May2025 03:27:51.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4216ms or 84 ticks behind

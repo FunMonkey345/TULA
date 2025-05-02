@@ -5871,5 +5871,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-05-02 03:18:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
