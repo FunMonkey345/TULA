@@ -334,6 +334,7 @@
       "minecraft:sparse_jungle": "2025-04-29 04:51:57 +0000",
       "minecraft:river": "2025-04-28 04:37:56 +0000",
       "minecraft:lukewarm_ocean": "2025-04-28 07:26:55 +0000",
+      "minecraft:snowy_plains": "2025-05-04 04:42:36 +0000",
       "minecraft:jungle": "2025-04-29 05:03:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:18 +0000",
       "minecraft:meadow": "2025-04-28 04:36:34 +0000",
@@ -5198,9 +5199,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-04 04:43:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-05-04 04:34:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-04 04:44:16 +0000"
     },
     "done": true
   },
@@ -5222,6 +5235,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-04 04:44:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-05-04 04:34:15 +0000"
@@ -5237,6 +5256,12 @@
   "chococraft:recipes/misc/choco_disguise_boots": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-04 04:44:16 +0000"
     },
     "done": true
   },
@@ -5258,15 +5283,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-04 04:46:16 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-05-04 04:34:15 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-04 04:46:16 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-04 04:43:44 +0000"
     },
     "done": true
   },
