@@ -325,6 +325,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-29 05:07:55 +0000",
       "minecraft:eroded_badlands": "2025-04-29 06:18:59 +0000",
+      "minecraft:frozen_river": "2025-05-04 04:48:41 +0000",
       "minecraft:cherry_grove": "2025-04-29 06:37:35 +0000",
       "minecraft:wooded_badlands": "2025-04-29 06:12:46 +0000",
       "minecraft:badlands": "2025-04-28 02:59:21 +0000",
@@ -337,6 +338,7 @@
       "minecraft:snowy_plains": "2025-05-04 04:42:36 +0000",
       "minecraft:jungle": "2025-04-29 05:03:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:18 +0000",
+      "minecraft:snowy_beach": "2025-05-04 04:48:24 +0000",
       "minecraft:meadow": "2025-04-28 04:36:34 +0000",
       "minecraft:savanna": "2025-04-29 06:44:11 +0000",
       "minecraft:plains": "2025-04-28 04:36:23 +0000"
@@ -5253,6 +5255,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-04 04:48:01 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_boots": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
@@ -5262,6 +5270,12 @@
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-05-04 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-04 04:48:01 +0000"
     },
     "done": true
   },
