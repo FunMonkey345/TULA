@@ -339,6 +339,7 @@
       "minecraft:cold_ocean": "2025-05-04 06:34:48 +0000",
       "minecraft:deep_cold_ocean": "2025-05-04 06:16:39 +0000",
       "minecraft:frozen_ocean": "2025-05-04 05:50:52 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-04 06:40:49 +0000",
       "minecraft:jungle": "2025-04-29 05:03:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:18 +0000",
       "minecraft:snowy_beach": "2025-05-04 04:48:24 +0000",
@@ -5226,6 +5227,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:21:09 +0000"
@@ -5235,6 +5242,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-05-04 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-05-04 06:49:40 +0000"
     },
     "done": true
   },
@@ -5286,6 +5299,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-04 06:54:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:21:09 +0000"
@@ -5295,6 +5314,18 @@
   "chococraft:recipes/misc/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-04 06:54:48 +0000"
     },
     "done": true
   },
@@ -5319,6 +5350,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-05-04 06:26:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-04 06:54:59 +0000"
     },
     "done": true
   },
@@ -5370,6 +5407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 04:48:01 +0000"
@@ -5382,15 +5425,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:21:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-05-04 05:19:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-05-04 06:49:40 +0000"
     },
     "done": true
   },
@@ -5439,6 +5500,18 @@
   "chococraft:recipes/misc/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-04 06:54:42 +0000"
     },
     "done": true
   },
@@ -5502,6 +5575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 06:49:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2025-05-04 04:46:16 +0000"
@@ -5538,6 +5617,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-04 06:54:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-05-04 04:34:15 +0000"
@@ -5556,6 +5641,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 06:54:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-04 06:26:18 +0000"
@@ -5568,9 +5659,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-05-04 06:54:10 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
     "criteria": {
       "has_sapphire_gem": "2025-05-04 05:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 06:54:48 +0000"
     },
     "done": true
   },
