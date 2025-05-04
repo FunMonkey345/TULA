@@ -6849,6 +6849,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-05-04 07:16:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-04 05:08:25 +0000"
@@ -6906,6 +6912,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-04 05:36:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-05-04 07:15:20 +0000"
     },
     "done": true
   },
@@ -6987,6 +6999,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 07:11:55 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-05-04 06:34:13 +0000"
@@ -7008,6 +7026,12 @@
   "galosphere:recipes/combat/sterling_boots_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 05:38:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-05-04 07:16:00 +0000"
     },
     "done": true
   },
@@ -7119,6 +7143,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-04 07:11:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
@@ -7140,6 +7170,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-05-04 07:14:21 +0000"
     },
     "done": true
   },

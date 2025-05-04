@@ -15253,3 +15253,84 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [04May2025 07:11:55.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Greed may lead to loss]
 [04May2025 07:11:58.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
 [04May2025 07:12:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[04May2025 07:13:01.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
+[04May2025 07:13:01.256] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 07:13:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Fire Dragon
+[04May2025 07:13:03.309] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 07:13:06.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -400.500000, -13.500000, 2511.500000]
+[04May2025 07:13:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -416.500000, -12.500000, 2511.500000]
+[04May2025 07:13:13.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[04May2025 07:13:15.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[04May2025 07:13:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
+[04May2025 07:13:29.260] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 07:13:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -401.500000, -11.500000, 2528.500000]
+[04May2025 07:13:37.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was burnt to a crisp whilst fighting Fire Dragon
+[04May2025 07:13:37.372] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:13:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -429.500000, 81.500000, 2496.500000]
+[04May2025 07:13:42.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -431.500000, -12.500000, 2522.500000]
+[04May2025 07:13:55.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 moved wrongly!
+[04May2025 07:13:55.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 moved wrongly!
+[04May2025 07:14:01.980] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:forlorn_hollows took 338 ms
+[04May2025 07:14:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 82.500000, -47.000000, 1632.500000]
+[04May2025 07:14:21.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7095ms or 141 ticks behind
+[04May2025 07:14:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Forlornliest Day of My Life]
+[04May2025 07:14:21.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was burnt to a crisp whilst fighting Fire Dragon
+[04May2025 07:14:21.811] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:14:23.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was incinerated by Fire Dragon
+[04May2025 07:14:23.314] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 07:14:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -417.500000, -12.500000, 2523.500000]
+[04May2025 07:14:35.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -402.500000, -11.500000, 2524.500000]
+[04May2025 07:14:42.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04May2025 07:14:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to 4 targets]
+[04May2025 07:15:00.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[04May2025 07:15:10.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[04May2025 07:15:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has reached the goal [Forlornliest Day of My Life]
+[04May2025 07:15:16.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Fire Dragon
+[04May2025 07:15:16.487] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:15:17.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[04May2025 07:15:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [That is One Big Pile of...]
+[04May2025 07:15:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -401.500000, -12.500000, 2518.500000]
+[04May2025 07:15:36.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Gave 1 [Ender Pearl] to ItsAyax]
+[04May2025 07:15:40.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [The Most Useful Key]
+[04May2025 07:15:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Hans Moleman]
+[04May2025 07:15:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall
+[04May2025 07:15:42.447] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:15:47.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -410.500000, -11.500000, 2518.500000]
+[04May2025 07:15:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [A Fast Comeback]
+[04May2025 07:15:49.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[04May2025 07:15:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was turned into KFC by Fire Dragon
+[04May2025 07:15:51.904] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 07:16:00.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Hans Moleman]
+[04May2025 07:16:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Knives Out]
+[04May2025 07:16:04.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Underzealot
+[04May2025 07:16:04.321] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 07:16:04.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -426.500000, -12.500000, 2517.500000]
+[04May2025 07:16:07.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[04May2025 07:16:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 119.500000, -38.500000, 1594.500000]
+[04May2025 07:16:18.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 burned to death
+[04May2025 07:16:18.644] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:16:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -425.500000, -12.500000, 2530.500000]
+[04May2025 07:16:27.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -323.500000, 77.500000, 2453.500000]
+[04May2025 07:16:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to ItsAyax]
+[04May2025 07:16:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[04May2025 07:16:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[04May2025 07:16:52.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax burned to death
+[04May2025 07:16:52.610] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 07:16:53.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was burnt to a crisp whilst fighting Fire Dragon
+[04May2025 07:16:53.363] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:16:54.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[04May2025 07:16:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Daneg32]
+[04May2025 07:16:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -422.500000, -14.500000, 2511.500000]
+[04May2025 07:17:05.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -400.500000, -11.500000, 2523.500000]
+[04May2025 07:17:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Daneg32]
+[04May2025 07:17:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Daneg32
+[04May2025 07:17:25.040] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 07:17:31.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04May2025 07:17:32.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 walked into fire whilst fighting Fire Dragon
+[04May2025 07:17:32.443] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[04May2025 07:17:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -415.500000, -12.500000, 2524.500000]
+[04May2025 07:17:38.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 07:17:38.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 07:17:38.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Server closed
+[04May2025 07:17:38.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[04May2025 07:17:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
