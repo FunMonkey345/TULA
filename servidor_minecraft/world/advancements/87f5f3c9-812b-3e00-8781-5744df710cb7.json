@@ -685,6 +685,7 @@
       "minecraft:cave_spider": "2025-04-28 05:36:24 +0000",
       "minecraft:piglin": "2025-05-01 07:31:41 +0000",
       "minecraft:enderman": "2025-05-02 05:01:25 +0000",
+      "minecraft:stray": "2025-05-04 07:01:52 +0000",
       "minecraft:zombie": "2025-04-28 02:19:32 +0000",
       "minecraft:drowned": "2025-04-28 07:07:04 +0000"
     },
@@ -7112,6 +7113,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-05-04 07:06:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
@@ -7133,6 +7140,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-04 07:06:06 +0000"
     },
     "done": true
   },
