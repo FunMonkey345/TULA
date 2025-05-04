@@ -1012,6 +1012,7 @@
       "minecraft:witch": "2025-04-29 05:52:15 +0000",
       "minecraft:piglin": "2025-05-02 05:26:05 +0000",
       "minecraft:enderman": "2025-04-29 05:59:37 +0000",
+      "minecraft:stray": "2025-05-04 06:17:16 +0000",
       "minecraft:zombie": "2025-04-29 04:25:34 +0000",
       "minecraft:drowned": "2025-04-29 04:42:12 +0000"
     },
@@ -3737,9 +3738,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-04 04:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
     },
     "done": true
   },
@@ -3794,6 +3807,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
     },
     "done": true
   },
@@ -3989,9 +4008,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-04 06:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
     },
     "done": true
   },
@@ -4010,6 +4047,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-04 04:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
     },
     "done": true
   },
@@ -4046,6 +4089,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
     },
     "done": true
   },

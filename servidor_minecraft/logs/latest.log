@@ -14298,3 +14298,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [04May2025 06:09:12.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4658ms or 93 ticks behind
 [04May2025 06:09:32.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
 [04May2025 06:09:53.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5905ms or 118 ticks behind
+[04May2025 06:10:16.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8406ms or 168 ticks behind
+[04May2025 06:10:41.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10510ms or 210 ticks behind
+[04May2025 06:11:05.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
+[04May2025 06:11:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Lorem Ipsum]
+[04May2025 06:11:25.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4983ms or 99 ticks behind
+[04May2025 06:11:39.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Journey Begins]
+[04May2025 06:11:44.010] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -3539 -48 6613 in 2s
+[04May2025 06:11:48.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7952ms or 159 ticks behind
+[04May2025 06:12:07.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1240.500000, -21.500000, 4034.500000]
+[04May2025 06:12:10.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7809ms or 156 ticks behind
+[04May2025 06:12:16.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1273.500000, -15.500000, 4080.500000]
+[04May2025 06:12:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Daneg32
+[04May2025 06:12:22.479] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 06:12:30.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5000ms or 100 ticks behind
+[04May2025 06:12:51.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5288ms or 105 ticks behind
+[04May2025 06:13:12.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5950ms or 119 ticks behind
+[04May2025 06:13:34.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7625ms or 152 ticks behind
+[04May2025 06:13:42.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1383.500000, 4.500000, 4066.500000]
+[04May2025 06:13:56.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7049ms or 140 ticks behind
+[04May2025 06:14:18.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1416.500000, -22.500000, 3992.500000]
+[04May2025 06:14:19.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7875ms or 157 ticks behind
+[04May2025 06:14:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has completed the challenge [Eye of the Tiger]
+[04May2025 06:14:32.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [An Ear-Shattering Roar]
+[04May2025 06:14:45.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10461ms or 209 ticks behind
+[04May2025 06:15:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1500.500000, -6.500000, 3930.500000]
+[04May2025 06:15:07.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7836ms or 156 ticks behind
+[04May2025 06:15:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1431.500000, -12.500000, 3850.500000]
+[04May2025 06:15:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -456.500000, 73.500000, 4251.500000]
+[04May2025 06:15:31.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1506.500000, 5.500000, 3800.500000]
+[04May2025 06:15:33.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10408ms or 208 ticks behind
+[04May2025 06:15:58.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9931ms or 198 ticks behind
+[04May2025 06:16:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1588.500000, 266.500000, 3745.500000]
+[04May2025 06:16:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1557.500000, 263.500000, 3792.500000]
+[04May2025 06:16:22.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9692ms or 193 ticks behind
+[04May2025 06:16:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergi69420> tp Juan123
+[04May2025 06:16:37.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[04May2025 06:16:44.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[04May2025 06:16:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergi69420> tp Juan123
+[04May2025 06:16:51.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13633ms or 272 ticks behind
+[04May2025 06:16:55.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[04May2025 06:17:10.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[04May2025 06:17:37.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04May2025 06:18:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1706.500000, 315.500000, 3699.500000]
+[04May2025 06:20:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -1517.500000, 266.500000, 3753.500000]
