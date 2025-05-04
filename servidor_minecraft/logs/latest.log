@@ -14342,3 +14342,70 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [04May2025 06:17:37.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [04May2025 06:18:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1706.500000, 315.500000, 3699.500000]
 [04May2025 06:20:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -1517.500000, 266.500000, 3753.500000]
+[04May2025 06:20:44.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[04May2025 06:21:03.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4251ms or 85 ticks behind
+[04May2025 06:21:23.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4606ms or 92 ticks behind
+[04May2025 06:21:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1760.500000, 295.500000, 3697.500000]
+[04May2025 06:21:33.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [Free Willy]
+[04May2025 06:21:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1562.500000, 265.500000, 3588.500000]
+[04May2025 06:21:45.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6938ms or 138 ticks behind
+[04May2025 06:22:02.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has completed the challenge [The Power of the Sun]
+[04May2025 06:22:05.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5520ms or 110 ticks behind
+[04May2025 06:22:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [The Power of the Sun]
+[04May2025 06:22:54.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[04May2025 06:22:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has completed the challenge [The Power of the Sun]
+[04May2025 06:22:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[04May2025 06:23:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [The Power of the Sun]
+[04May2025 06:24:20.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
+[04May2025 06:24:20.123] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 06:24:27.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1533.500000, 266.500000, 3742.500000]
+[04May2025 06:24:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -1702.500000, 304.500000, 3706.500000]
+[04May2025 06:24:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Ambush]
+[04May2025 06:24:40.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1546.500000, 287.500000, 3499.500000]
+[04May2025 06:24:54.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[04May2025 06:25:04.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1429.500000, 269.500000, 3387.500000]
+[04May2025 06:25:13.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3324ms or 66 ticks behind
+[04May2025 06:25:34.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6196ms or 123 ticks behind
+[04May2025 06:25:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1653.500000, 261.500000, 3497.500000]
+[04May2025 06:25:55.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6379ms or 127 ticks behind
+[04May2025 06:26:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1815.500000, 285.500000, 3597.500000]
+[04May2025 06:26:04.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Sea? Not a Problem]
+[04May2025 06:26:14.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
+[04May2025 06:26:34.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4993ms or 99 ticks behind
+[04May2025 06:26:38.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Tie me to the Mast]
+[04May2025 06:26:55.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6087ms or 121 ticks behind
+[04May2025 06:26:58.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[04May2025 06:27:02.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1782.500000, 291.500000, 3632.500000]
+[04May2025 06:27:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
+[04May2025 06:27:02.724] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 06:27:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1783.500000, 291.500000, 3631.500000]
+[04May2025 06:27:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [They Have a Cave Troll!]
+[04May2025 06:27:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[04May2025 06:28:22.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 6400 [Bread] to sergi69420]
+[04May2025 06:28:47.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to sergi69420]
+[04May2025 06:29:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -1758.500000, 295.500000, 3698.500000]
+[04May2025 06:29:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[04May2025 06:29:08.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -1568.500000, 267.500000, 3555.500000]
+[04May2025 06:29:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[04May2025 06:29:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 2648.500000, 71.500000, 1466.500000]
+[04May2025 06:29:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1707.500000, 248.500000, 3704.500000]
+[04May2025 06:29:40.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[04May2025 06:29:43.633] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2799, y=-28, z=1381}
+[04May2025 06:29:44.267] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2789, y=-46, z=1337}
+[04May2025 06:29:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[04May2025 06:30:18.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [They Have a Cave Troll!]
+[04May2025 06:30:23.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[04May2025 06:30:23.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04May2025 06:30:28.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by Zombie
+[04May2025 06:30:28.643] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[04May2025 06:30:35.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[04May2025 06:30:39.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -1641.500000, 249.500000, 3700.500000]
+[04May2025 06:30:43.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[04May2025 06:30:54.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[04May2025 06:30:54.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[04May2025 06:31:02.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:58301] logged in with entity id 143028 at (-1691.699999988079, 266.0, 3709.443373780302)
+[04May2025 06:31:02.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[04May2025 06:31:02.845] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[04May2025 06:31:03.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/143058, l='ServerLevel[world]', x=-1390.70, y=3.22, z=3756.84]
+[04May2025 06:31:03.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/143059, l='ServerLevel[world]', x=-1388.02, y=2.36, z=3758.16]
+[04May2025 06:31:03.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/143060, l='ServerLevel[world]', x=-1384.57, y=1.51, z=3759.85]

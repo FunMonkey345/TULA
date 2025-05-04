@@ -335,8 +335,10 @@
       "minecraft:cold_ocean": "2025-05-02 06:55:20 +0000",
       "minecraft:forest": "2025-05-02 07:02:01 +0000",
       "minecraft:lush_caves": "2025-04-29 04:58:07 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-04 06:18:38 +0000",
       "minecraft:frozen_ocean": "2025-05-02 07:03:39 +0000",
       "minecraft:desert": "2025-04-29 06:17:13 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-04 06:20:10 +0000",
       "minecraft:jungle": "2025-04-29 04:59:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:06:11 +0000",
       "minecraft:snowy_beach": "2025-05-02 07:03:21 +0000",
@@ -3936,6 +3938,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-04 06:22:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
@@ -4020,6 +4028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 06:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 04:46:06 +0000"
@@ -4029,6 +4043,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-04 06:05:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 06:27:10 +0000"
     },
     "done": true
   },
@@ -4065,6 +4085,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-04 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 06:21:11 +0000"
     },
     "done": true
   },
