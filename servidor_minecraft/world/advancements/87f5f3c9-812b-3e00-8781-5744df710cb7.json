@@ -467,7 +467,8 @@
       "rotten_flesh": "2025-04-28 03:42:12 +0000",
       "glow_berries": "2025-04-28 05:58:54 +0000",
       "salmon": "2025-05-01 08:50:00 +0000",
-      "golden_carrot": "2025-04-28 01:59:11 +0000"
+      "golden_carrot": "2025-04-28 01:59:11 +0000",
+      "enchanted_golden_apple": "2025-05-04 07:30:37 +0000"
     },
     "done": false
   },
@@ -6819,39 +6820,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-04 05:27:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
     "criteria": {
       "has_raw_copper": "2025-05-04 04:48:19 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+      "has_raw_copper": "2025-05-04 04:48:19 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/desolate_dagger": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "desolate_dagger": "2025-05-04 07:16:03 +0000"
+      "has_raw_copper": "2025-05-04 04:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-04 04:48:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-04 04:50:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 05:08:02 +0000"
     },
     "done": true
   },
@@ -6861,39 +6868,15 @@
     },
     "done": true
   },
-  "gobber2:gobber2_rod": {
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
-      "gobber2_rod": "2025-05-04 05:48:17 +0000"
+      "has_item": "2025-05-04 05:08:25 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-04 05:36:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-05-04 06:11:39 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_chestplate_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2025-05-04 05:38:22 +0000"
+      "has_item": "2025-05-04 05:08:25 +0000"
     },
     "done": true
   },
@@ -6903,9 +6886,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
+      "has_item": "2025-05-04 05:13:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-05-04 05:32:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-05-04 05:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 05:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 05:36:15 +0000"
     },
     "done": true
   },
@@ -6915,15 +6940,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/guano": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "guano": "2025-05-04 07:15:20 +0000"
+      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
     "criteria": {
-      "has_raw_copper": "2025-05-04 04:48:19 +0000"
+      "has_silver_ingot": "2025-05-04 05:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
     },
     "done": true
   },
@@ -6939,33 +6970,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-04 04:48:19 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/combat/sterling_leggings_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 05:38:22 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_glob": {
-    "criteria": {
-      "gobber2_glob": "2025-05-04 05:46:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-05-04 06:11:23 +0000"
     },
     "done": true
   },
@@ -6975,105 +6982,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-05-04 05:27:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-05-04 04:50:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_cupidity": {
-    "criteria": {
-      "coded_trigger": "2025-05-04 07:11:55 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-05-04 06:34:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "gobber2:root": {
-    "criteria": {
-      "gobber2_globette": "2025-05-04 05:40:50 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/combat/sterling_boots_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 05:38:22 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-05-04 07:16:00 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ingot": {
-    "criteria": {
-      "gobber2_ingot": "2025-05-04 05:47:58 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_sword": {
-    "criteria": {
-      "gobber2_sword": "2025-05-04 05:48:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_pickaxe": {
-    "criteria": {
-      "gobber2_pickaxe": "2025-05-04 05:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_the_recipe": "2025-05-04 05:34:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
     },
     "done": true
   },
@@ -7089,39 +7006,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-05-04 06:22:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-05-04 05:32:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-05-04 05:32:40 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/combat/sterling_helmet_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 05:38:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
     },
     "done": true
   },
@@ -7137,33 +7030,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2025-05-04 07:06:06 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-05-04 07:11:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/crushing/crushing/netherite_dust_from_ingot": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-05-04 05:08:02 +0000"
     },
     "done": true
   },
@@ -7173,15 +7042,75 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
-      "discover": "2025-05-04 07:14:21 +0000"
+      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
-      "has_silver_nugget": "2025-05-04 07:06:06 +0000"
+      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-05-04 05:40:50 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2025-05-04 05:46:58 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-05-04 05:47:58 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2025-05-04 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe": {
+    "criteria": {
+      "gobber2_pickaxe": "2025-05-04 05:48:23 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2025-05-04 05:48:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-04 06:07:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-05-04 06:11:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-05-04 06:11:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-04 06:22:37 +0000"
     },
     "done": true
   },
@@ -7191,21 +7120,87 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-04 06:34:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "has_item": "2025-05-04 05:08:25 +0000"
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
     },
     "done": true
   },
@@ -7227,18 +7222,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-05-04 05:08:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-05-04 06:07:51 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:37:29 +0000"
@@ -7257,33 +7240,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-04 05:38:22 +0000"
+      "has_item": "2025-05-04 07:06:06 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_sapphire_gem": "2025-05-04 05:08:02 +0000"
+      "has_silver_nugget": "2025-05-04 07:06:06 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "has_item": "2025-05-04 05:13:10 +0000"
+      "has_magic_tablet": "2025-05-04 07:11:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "tombstone:adventure/use_cupidity": {
     "criteria": {
-      "has_raw_copper": "2025-05-04 04:48:19 +0000"
+      "coded_trigger": "2025-05-04 07:11:55 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
-      "has_item": "2025-05-04 05:27:25 +0000"
+      "discover": "2025-05-04 07:14:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-05-04 07:15:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-05-04 07:16:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-05-04 07:16:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-04 07:41:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-05-04 07:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-04 07:29:48 +0000"
     },
     "done": true
   },
