@@ -352,6 +352,7 @@
       "minecraft:ocean": "2025-04-28 06:43:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-28 06:20:48 +0000",
       "minecraft:snowy_beach": "2025-05-02 03:36:10 +0000",
+      "minecraft:deep_dark": "2025-05-04 05:01:56 +0000",
       "minecraft:meadow": "2025-04-28 04:09:02 +0000",
       "minecraft:savanna": "2025-04-29 06:47:35 +0000",
       "minecraft:plains": "2025-04-28 04:35:13 +0000"
@@ -6822,6 +6823,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-04 04:48:19 +0000"
@@ -6837,6 +6844,30 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-05-04 04:50:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:08:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:08:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 05:08:02 +0000"
     },
     "done": true
   },
