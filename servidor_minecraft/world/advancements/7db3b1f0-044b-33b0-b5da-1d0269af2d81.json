@@ -336,6 +336,7 @@
       "minecraft:river": "2025-04-28 04:37:56 +0000",
       "minecraft:lukewarm_ocean": "2025-04-28 07:26:55 +0000",
       "minecraft:snowy_plains": "2025-05-04 04:42:36 +0000",
+      "minecraft:frozen_ocean": "2025-05-04 05:50:52 +0000",
       "minecraft:jungle": "2025-04-29 05:03:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:18 +0000",
       "minecraft:snowy_beach": "2025-05-04 04:48:24 +0000",
@@ -5201,9 +5202,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-05-04 05:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-05-04 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-05-04 05:19:43 +0000"
     },
     "done": true
   },
@@ -5237,9 +5250,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-05-04 05:19:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-05-04 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-04 05:19:43 +0000"
     },
     "done": true
   },
@@ -5261,6 +5286,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-04 05:19:43 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_boots": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
@@ -5279,6 +5310,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-05-04 05:16:39 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_chestplate": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
@@ -5288,6 +5325,12 @@
   "chococraft:recipes/misc/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 05:56:06 +0000"
     },
     "done": true
   },
@@ -5303,6 +5346,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-05-04 05:19:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-05-04 04:34:15 +0000"
@@ -5315,6 +5364,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-04 05:56:06 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
@@ -5324,6 +5379,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-04 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-04 05:43:34 +0000"
     },
     "done": true
   },

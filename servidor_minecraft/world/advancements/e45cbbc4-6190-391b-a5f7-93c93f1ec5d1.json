@@ -1122,8 +1122,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-29 04:33:07 +0000",
+      "golden_apple": "2025-05-04 06:02:38 +0000",
       "glow_berries": "2025-04-29 05:59:20 +0000",
-      "melon_slice": "2025-04-29 04:44:47 +0000"
+      "melon_slice": "2025-04-29 04:44:47 +0000",
+      "golden_carrot": "2025-05-04 05:09:34 +0000"
     },
     "done": false
   },
@@ -3741,6 +3743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-04 05:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
@@ -3762,6 +3770,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-04 05:43:32 +0000"
     },
     "done": true
   },
@@ -3795,6 +3809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-04 05:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-04 04:46:06 +0000"
@@ -3810,6 +3830,18 @@
   "occultism:recipes/misc/crafting/brush": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 05:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-04 05:27:49 +0000"
     },
     "done": true
   },
@@ -3873,6 +3905,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 05:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
@@ -3906,6 +3944,24 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-04 05:27:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 05:27:49 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2025-05-04 05:22:02 +0000"
     },
     "done": true
   },
@@ -4005,9 +4061,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-04 05:19:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-04 05:27:50 +0000"
     },
     "done": true
   },

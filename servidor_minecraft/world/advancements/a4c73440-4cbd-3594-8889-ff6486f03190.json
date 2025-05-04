@@ -325,6 +325,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-29 06:51:16 +0000",
       "minecraft:eroded_badlands": "2025-04-29 06:20:44 +0000",
+      "minecraft:frozen_river": "2025-05-04 05:20:15 +0000",
       "minecraft:cherry_grove": "2025-04-28 03:10:30 +0000",
       "minecraft:sunflower_plains": "2025-04-29 06:37:11 +0000",
       "minecraft:bamboo_jungle": "2025-04-28 06:56:34 +0000",
@@ -342,9 +343,11 @@
       "minecraft:swamp": "2025-04-28 06:26:33 +0000",
       "minecraft:forest": "2025-04-28 06:31:17 +0000",
       "minecraft:lush_caves": "2025-04-29 04:57:13 +0000",
+      "minecraft:frozen_ocean": "2025-05-04 05:51:58 +0000",
       "minecraft:desert": "2025-04-29 04:47:31 +0000",
       "minecraft:jungle": "2025-04-28 06:41:08 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:03 +0000",
+      "minecraft:snowy_beach": "2025-05-04 05:55:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-29 04:25:53 +0000",
       "minecraft:flower_forest": "2025-05-02 03:05:00 +0000",
       "minecraft:deep_dark": "2025-05-04 05:01:55 +0000",
@@ -6492,9 +6495,87 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 05:43:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-05-04 05:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 05:43:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-05-04 05:09:01 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2025-05-04 05:54:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 05:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-05-04 05:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-05-04 05:16:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 06:02:01 +0000"
     },
     "done": true
   },
@@ -6504,15 +6585,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_slab": {
     "criteria": {
       "has_item": "2025-05-04 05:09:01 +0000"
     },
     "done": true
   },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-04 05:14:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-05-04 05:09:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-05-04 05:16:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:43:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-04 05:14:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-05-04 05:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-04 05:41:13 +0000"
     },
     "done": true
   },
@@ -6534,9 +6681,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-05-04 05:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 06:02:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-05-04 05:07:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-05-04 06:01:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-04 05:41:13 +0000"
     },
     "done": true
   },
