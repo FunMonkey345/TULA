@@ -342,6 +342,8 @@
       "minecraft:jungle": "2025-04-29 04:59:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:06:11 +0000",
       "minecraft:snowy_beach": "2025-05-02 07:03:21 +0000",
+      "minecraft:warm_ocean": "2025-05-04 06:34:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-04 06:33:26 +0000",
       "minecraft:flower_forest": "2025-05-01 06:45:54 +0000",
       "minecraft:meadow": "2025-05-01 06:30:50 +0000",
       "minecraft:savanna": "2025-04-29 06:44:18 +0000",
@@ -3824,9 +3826,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 06:31:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 06:31:34 +0000"
     },
     "done": true
   },
@@ -3839,6 +3853,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-04 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 06:31:21 +0000"
     },
     "done": true
   },
@@ -4058,6 +4078,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-05-04 06:31:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-05-04 06:31:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-05-04 04:24:09 +0000"
@@ -4100,6 +4132,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 06:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-04 04:23:47 +0000"
@@ -4139,6 +4177,18 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-04 05:19:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-05-04 06:31:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 06:31:34 +0000"
     },
     "done": true
   },

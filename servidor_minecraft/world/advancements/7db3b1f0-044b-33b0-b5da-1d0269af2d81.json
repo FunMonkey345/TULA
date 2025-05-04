@@ -336,6 +336,7 @@
       "minecraft:river": "2025-04-28 04:37:56 +0000",
       "minecraft:lukewarm_ocean": "2025-04-28 07:26:55 +0000",
       "minecraft:snowy_plains": "2025-05-04 04:42:36 +0000",
+      "minecraft:cold_ocean": "2025-05-04 06:34:48 +0000",
       "minecraft:deep_cold_ocean": "2025-05-04 06:16:39 +0000",
       "minecraft:frozen_ocean": "2025-05-04 05:50:52 +0000",
       "minecraft:jungle": "2025-04-29 05:03:21 +0000",
@@ -5207,6 +5208,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 06:30:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:21:09 +0000"
@@ -5234,6 +5241,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-05-04 05:19:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 06:34:23 +0000"
     },
     "done": true
   },
@@ -5282,6 +5295,12 @@
   "chococraft:recipes/misc/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-05-04 04:34:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 06:30:19 +0000"
     },
     "done": true
   },
@@ -5435,9 +5454,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 06:30:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:21:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 06:34:23 +0000"
     },
     "done": true
   },
@@ -5480,6 +5511,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-04 06:21:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 06:34:23 +0000"
     },
     "done": true
   },
@@ -5558,6 +5595,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-05-04 04:34:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 06:30:19 +0000"
     },
     "done": true
   },

@@ -14409,3 +14409,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [04May2025 06:31:03.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/143058, l='ServerLevel[world]', x=-1390.70, y=3.22, z=3756.84]
 [04May2025 06:31:03.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/143059, l='ServerLevel[world]', x=-1388.02, y=2.36, z=3758.16]
 [04May2025 06:31:03.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/143060, l='ServerLevel[world]', x=-1384.57, y=1.51, z=3759.85]
+[04May2025 06:31:12.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04May2025 06:31:21.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Sea? Not a Problem]
+[04May2025 06:31:32.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4658ms or 93 ticks behind
+[04May2025 06:31:51.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04May2025 06:31:55.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [They Have a Cave Troll!]
+[04May2025 06:32:09.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
+[04May2025 06:32:27.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[04May2025 06:32:45.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[04May2025 06:33:03.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2995ms or 59 ticks behind
+[04May2025 06:33:13.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 2820.500000, 63.500000, 1458.500000]
+[04May2025 06:33:22.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4338ms or 86 ticks behind
+[04May2025 06:33:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 2914.500000, 63.500000, 1556.500000]
+[04May2025 06:33:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 2996.500000, 63.500000, 1642.500000]
+[04May2025 06:33:41.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4520ms or 90 ticks behind
+[04May2025 06:33:43.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 06:33:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 2578.500000, 80.500000, 1492.500000]
+[04May2025 06:33:59.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
+[04May2025 06:34:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 3082.500000, 63.500000, 1725.500000]
+[04May2025 06:34:35.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 3169.500000, 63.500000, 1816.500000]
+[04May2025 06:34:41.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04May2025 06:34:49.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 06:34:59.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3220ms or 64 ticks behind
+[04May2025 06:35:06.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 3280.500000, 196.500000, 1786.500000]
+[04May2025 06:35:16.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04May2025 06:35:34.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[04May2025 06:35:52.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[04May2025 06:35:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 3381.500000, 201.500000, 1736.500000]
+[04May2025 06:36:11.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
+[04May2025 06:36:30.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3832ms or 76 ticks behind
+[04May2025 06:36:30.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[04May2025 06:37:06.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Spider
+[04May2025 06:37:06.973] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 06:37:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1543.500000, 249.500000, 3566.500000]
+[04May2025 06:37:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[04May2025 06:37:47.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[04May2025 06:37:58.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[04May2025 06:37:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[04May2025 06:38:01.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
+[04May2025 06:38:01.545] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[04May2025 06:38:05.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1468.500000, 250.500000, 3578.500000]
+[04May2025 06:38:06.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:58341] logged in with entity id 153144 at (-1568.8841893422325, 249.0, 3588.017615000575)
+[04May2025 06:38:06.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[04May2025 06:38:06.140] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[04May2025 06:40:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[04May2025 06:40:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[04May2025 06:41:16.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [They Have a Cave Troll!]
+[04May2025 06:41:22.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
