@@ -10146,3 +10146,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 06:15:12.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 4 [Cactus] to Juan123]
 [05May2025 06:18:19.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -339.500000, 63.500000, 2416.500000]
 [05May2025 06:18:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Horse]
+[05May2025 06:19:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Occultism: Friends]

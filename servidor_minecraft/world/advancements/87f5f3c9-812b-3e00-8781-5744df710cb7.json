@@ -7379,11 +7379,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-05 06:18:19 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-05 05:06:28 +0000"
     },
     "done": true
+  },
+  "occultism:occultism/familiar/mans_best_friend": {
+    "criteria": {
+      "dragon_fetch": "2025-05-05 06:20:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
@@ -7643,6 +7655,12 @@
     },
     "done": true
   },
+  "occultism:occultism/familiar_dragon": {
+    "criteria": {
+      "familiar_dragon": "2025-05-05 06:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-05-05 05:37:01 +0000"
@@ -7808,6 +7826,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 05:24:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/root": {
+    "criteria": {
+      "summon_familiar": "2025-05-05 06:19:46 +0000"
     },
     "done": true
   },
