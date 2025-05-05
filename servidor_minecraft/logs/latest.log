@@ -10174,3 +10174,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 06:55:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 40 [Oak Stairs] to Daneg32]
 [05May2025 06:57:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 64 [Oak Fence] to Daneg32]
 [05May2025 06:59:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 128 [Cherry Leaves] to Daneg32]
+[05May2025 07:00:50.700] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:ferrocave took 2481 ms
+[05May2025 07:00:50.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[05May2025 07:01:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3535.500000, 67.000000, 6624.500000]
+[05May2025 07:01:05.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Opposites Attract]
+[05May2025 07:01:10.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
+[05May2025 07:01:24.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[05May2025 07:01:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3547.500000, -36.500000, 6628.500000]
+[05May2025 07:01:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3562.500000, 48.500000, 6630.500000]
+[05May2025 07:02:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3675.500000, 25.500000, 6726.500000]
+[05May2025 07:02:52.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 128 [Cherry Leaves] to Daneg32]
+[05May2025 07:03:02.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sneak 100]
+[05May2025 07:03:35.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 1 [Glowstone] to Daneg32]
+[05May2025 07:04:22.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 18 [Bookshelf] to Daneg32]
+[05May2025 07:04:34.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[05May2025 07:04:42.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Creative Mode]
+[05May2025 07:04:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Spectator Mode]
+[05May2025 07:04:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[05May2025 07:05:27.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05May2025 07:06:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -339.500000, 63.500000, 2416.500000]
+[05May2025 07:07:40.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[05May2025 07:07:40.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[05May2025 07:07:54.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:63954] logged in with entity id 110976 at (-390.75051525645677, 67.0, 2414.564385762324)
+[05May2025 07:07:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[05May2025 07:07:54.558] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[05May2025 07:08:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05May2025 07:08:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has completed the challenge [It Spreads]
+[05May2025 07:08:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -294.500000, 71.500000, 2423.500000]
+[05May2025 07:08:48.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[05May2025 07:09:15.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[05May2025 07:09:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[05May2025 07:09:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ItsAyax]

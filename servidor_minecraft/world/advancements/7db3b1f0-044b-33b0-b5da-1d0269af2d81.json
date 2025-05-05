@@ -6356,6 +6356,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-05 07:08:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage": {
     "criteria": {
       "has_cabbage_crate": "2025-05-05 04:30:38 +0000"
