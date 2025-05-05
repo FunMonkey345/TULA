@@ -7307,6 +7307,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
+    "criteria": {
+      "has_chalk_white_impure": "2025-05-05 04:47:13 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
     "criteria": {
       "has_sacrificial_bowl": "2025-05-05 04:43:14 +0000"
@@ -7319,9 +7325,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-05 05:04:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-05 05:06:28 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_ashes": {
     "criteria": {
       "has_otherworld_log": "2025-05-05 04:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-05-05 05:08:36 +0000"
     },
     "done": true
   },
@@ -7331,15 +7361,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-05 05:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-05 04:45:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-05 05:04:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/otherstone_frame": {
     "criteria": {
       "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
     },
     "done": true
   },
@@ -7355,6 +7415,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_foliot": {
+    "criteria": {
+      "has_taboo_book": "2025-05-05 04:59:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7367,9 +7433,27 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+    "criteria": {
+      "has_chalk_gold_impure": "2025-05-05 05:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-05 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
     },
     "done": true
   },
@@ -7379,9 +7463,33 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_marid": {
+    "criteria": {
+      "has_taboo_book": "2025-05-05 04:59:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-05-05 05:03:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-05-05 05:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-05 05:05:10 +0000"
     },
     "done": true
   },
@@ -7403,9 +7511,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_afrit": {
+    "criteria": {
+      "has_taboo_book": "2025-05-05 04:59:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-05 04:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
     },
     "done": true
   },
@@ -7433,9 +7553,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-05-05 05:03:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_essence": {
     "criteria": {
       "has_demons_dream_essence": "2025-05-05 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2025-05-05 05:06:28 +0000"
     },
     "done": true
   },
@@ -7445,9 +7577,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust": {
+    "criteria": {
+      "has_gold": "2025-05-05 05:04:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lenses": {
     "criteria": {
       "has_spirit_attuned_gem": "2025-05-05 04:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
     },
     "done": true
   },
@@ -7475,6 +7619,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-05-05 05:07:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-05-05 04:32:17 +0000"
@@ -7493,9 +7649,45 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-05 05:06:28 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/decorations/crafting/candle": {
     "criteria": {
       "has_tallow": "2025-05-05 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_djinni": {
+    "criteria": {
+      "has_taboo_book": "2025-05-05 04:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_empty": {
+    "criteria": {
+      "has_taboo_book": "2025-05-05 04:59:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-05-05 05:03:48 +0000"
     },
     "done": true
   },
@@ -7526,6 +7718,12 @@
   "occultism:recipes/misc/smelting/burnt_otherstone": {
     "criteria": {
       "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust": {
+    "criteria": {
+      "has_copper": "2025-05-05 05:05:10 +0000"
     },
     "done": true
   },
