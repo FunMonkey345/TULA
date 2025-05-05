@@ -8717,3 +8717,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 03:53:26.486] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
 [05May2025 03:53:26.486] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
 [05May2025 03:55:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Set own game mode to Creative Mode]
+[05May2025 03:55:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Creative Mode]
+[05May2025 03:56:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[05May2025 03:56:37.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 03:56:37.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:00:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [The Song of the Dragons]
+[05May2025 04:01:28.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 8.529495751394705,0.0,-7.1347684194111025
+[05May2025 04:01:28.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 10.239486536345566,0.0,-8.557674149151808
+[05May2025 04:01:28.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 11.950482065455361,0.0,-9.979585860949555
+[05May2025 04:01:28.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 13.662363778913345,0.0,-11.40062084892179
+[05May2025 04:01:28.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 15.3750271069664,0.0,-12.820882566479668
+[05May2025 04:01:28.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 17.088379819092324,0.0,-14.24046225953225
+[05May2025 04:01:28.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 18.802340567970532,0.0,-15.659440406971498
+[05May2025 04:01:28.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 20.515970765058725,0.0,-17.07893559464219
+[05May2025 04:01:28.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 22.229309415468137,0.0,-18.498886811797092
+[05May2025 04:01:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 23.94239092170686,0.0,-19.919240246957543
+[05May2025 04:01:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 25.655245626787035,0.0,-21.33994843839855
+[05May2025 04:01:28.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 27.367900293245384,0.0,-22.760969524878874
+[05May2025 04:01:28.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 29.08037852563926,0.0,-24.182266584783974
+[05May2025 04:01:28.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 30.79270114318828,0.0,-25.603807053249966
+[05May2025 04:01:28.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 32.504886508444145,0.0,-27.025562208066276
+[05May2025 04:01:28.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 34.216950817177434,0.0,-28.44750671624388
+[05May2025 04:01:28.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 35.928908354057825,0.0,-29.86961823408592
+[05May2025 04:01:28.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 37.64077171816395,0.0,-31.291877054452016
+[05May2025 04:01:28.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 32.53190788972624,0.0,-27.003530110444444
+[05May2025 04:01:28.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 34.24361493418422,0.0,-28.426033441805885
+[05May2025 04:01:37.009] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 04:01:37.010] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 04:01:37.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:01:37.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:01:37.769] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
