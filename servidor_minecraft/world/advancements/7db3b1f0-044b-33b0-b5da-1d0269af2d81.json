@@ -5804,9 +5804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-05-05 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -5831,6 +5843,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-05 05:05:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -5888,6 +5906,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-05-05 05:36:13 +0000"
@@ -5921,6 +5945,12 @@
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-05-05 05:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -5972,6 +6002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-05 05:01:44 +0000"
@@ -5996,9 +6032,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-05 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6026,6 +6080,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-05-05 04:45:55 +0000"
@@ -6038,9 +6098,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-05-05 04:55:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6068,9 +6140,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-05 04:55:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6086,6 +6182,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-05 04:43:34 +0000"
@@ -6095,6 +6197,18 @@
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2025-05-05 05:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6164,6 +6278,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-05-05 04:32:40 +0000"
@@ -6200,9 +6326,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-05-05 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6242,9 +6380,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
     "criteria": {
       "has_oak_sapling": "2025-05-05 05:11:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6278,9 +6428,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-05-05 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6299,6 +6461,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-05 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },
@@ -6326,6 +6494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-05 04:45:32 +0000"
@@ -6341,6 +6515,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-05-05 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-05 06:43:02 +0000"
     },
     "done": true
   },

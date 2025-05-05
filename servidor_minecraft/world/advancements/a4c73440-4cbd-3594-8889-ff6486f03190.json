@@ -7451,6 +7451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 06:40:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-05 04:05:08 +0000"

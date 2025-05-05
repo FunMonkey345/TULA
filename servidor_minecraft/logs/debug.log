@@ -18526,3 +18526,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 06:36:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Zombie]
 [05May2025 06:38:15.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 06:38:15.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:40:03.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 64 [Cherry Stairs] to Daneg32]
+[05May2025 06:41:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 4 [Ender Pearl] to Juan123]
+[05May2025 06:43:15.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 06:43:15.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:43:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 4 [Painting] to Daneg32]
+[05May2025 06:44:55.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Legendary Ink] to Juan123]
+[05May2025 06:46:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Gave 1 [Purple Elevator] to ItsAyax]
+[05May2025 06:46:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 256 [Dirt] to Daneg32]
+[05May2025 06:48:15.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 06:48:15.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:48:36.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -532.500000, 72.500000, 2441.500000]
+[05May2025 06:49:29.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -545.500000, 72.500000, 2410.500000]
