@@ -8109,3 +8109,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 05:15:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Forged in Flame]
 [05May2025 05:16:44.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 drowned whilst trying to escape ItsAyax
 [05May2025 05:16:44.956] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 05:18:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 256 [Coal] to Daneg32]
+[05May2025 05:21:43.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [An Ear-Shattering Roar]
+[05May2025 05:24:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Dragon Commander]

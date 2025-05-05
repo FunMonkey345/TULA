@@ -16413,3 +16413,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 05:16:44.956] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
 [05May2025 05:17:02.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 05:17:02.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:18:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 256 [Coal] to Daneg32]
+[05May2025 05:21:43.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [An Ear-Shattering Roar]
+[05May2025 05:22:02.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:22:02.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 05:24:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Dragon Commander]
+[05May2025 05:27:02.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 05:27:02.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
