@@ -18538,3 +18538,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 06:48:15.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05May2025 06:48:36.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -532.500000, 72.500000, 2441.500000]
 [05May2025 06:49:29.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -545.500000, 72.500000, 2410.500000]
+[05May2025 06:49:51.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Gave 1 [Purple Elevator] to ItsAyax]
+[05May2025 06:50:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -571.500000, 72.500000, 2380.500000]
+[05May2025 06:50:42.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -419.500000, 77.500000, 2374.500000]
+[05May2025 06:51:27.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -359.500000, 76.500000, 2625.500000]
+[05May2025 06:52:36.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Cherry Picker]
+[05May2025 06:53:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -403.500000, 93.500000, 2738.500000]
+[05May2025 06:53:15.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 06:53:15.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:55:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[05May2025 06:55:28.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 1 [Oak Stairs] to Daneg32]
+[05May2025 06:55:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 40 [Oak Stairs] to Daneg32]
+[05May2025 06:57:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 64 [Oak Fence] to Daneg32]
+[05May2025 06:58:15.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 06:58:15.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:59:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 128 [Cherry Leaves] to Daneg32]

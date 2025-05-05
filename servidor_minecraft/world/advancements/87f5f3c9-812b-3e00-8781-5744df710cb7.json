@@ -7385,9 +7385,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-05 06:18:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -7406,6 +7418,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 05:24:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -7547,6 +7565,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-05 06:03:16 +0000"
@@ -7559,9 +7583,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -7649,6 +7691,36 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7664,6 +7736,12 @@
   "occultism:recipes/misc/crafting/chalk_white_impure": {
     "criteria": {
       "has_ashes": "2025-05-05 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -7781,6 +7859,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-05 05:06:28 +0000"
@@ -7802,6 +7886,12 @@
   "occultism:recipes/misc/crafting/book_of_calling_djinni_manage_machine": {
     "criteria": {
       "has_book_of_binding_bound_djinni": "2025-05-05 06:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -7853,6 +7943,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7862,6 +7958,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-05-05 06:03:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -7901,6 +8003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-05-05 04:32:17 +0000"
@@ -7922,6 +8030,12 @@
   "occultism:recipes/misc/smelting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-05 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-05-05 06:52:36 +0000"
     },
     "done": true
   },
@@ -7949,6 +8063,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-05-05 04:49:53 +0000"
@@ -7964,6 +8084,12 @@
   "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-05-05 05:03:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
@@ -8012,6 +8138,12 @@
   "occultism:recipes/misc/smelting/burnt_otherstone": {
     "criteria": {
       "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-05 06:49:00 +0000"
     },
     "done": true
   },
