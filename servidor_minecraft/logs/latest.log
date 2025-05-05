@@ -10147,3 +10147,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 06:18:19.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -339.500000, 63.500000, 2416.500000]
 [05May2025 06:18:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Horse]
 [05May2025 06:19:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Occultism: Friends]
+[05May2025 06:30:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05May2025 06:32:14.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall
+[05May2025 06:32:14.326] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 06:32:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -437.500000, 63.500000, 2363.500000]
+[05May2025 06:33:22.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Zombie]
+[05May2025 06:36:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Fully Equipped!]
+[05May2025 06:36:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 64 [Iron Ingot] to Juan123]
+[05May2025 06:36:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Zombie]

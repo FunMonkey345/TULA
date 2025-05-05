@@ -18513,3 +18513,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 06:23:15.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05May2025 06:28:15.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 06:28:15.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:30:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05May2025 06:32:14.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall
+[05May2025 06:32:14.325] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-438, y:63, z:2363, dim:minecraft:overworld]
+[05May2025 06:32:14.326] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 06:32:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -437.500000, 63.500000, 2363.500000]
+[05May2025 06:33:15.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 06:33:15.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 06:33:22.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Zombie]
+[05May2025 06:36:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Fully Equipped!]
+[05May2025 06:36:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 64 [Iron Ingot] to Juan123]
+[05May2025 06:36:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Zombie]
+[05May2025 06:38:15.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 06:38:15.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

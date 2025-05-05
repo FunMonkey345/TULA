@@ -7379,6 +7379,12 @@
     },
     "done": true
   },
+  "occultism:occultism/familiar/blacksmith_upgrade": {
+    "criteria": {
+      "blacksmith_upgrade": "2025-05-05 06:36:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-05 06:18:19 +0000"
@@ -7418,6 +7424,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-05-05 05:24:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar_blacksmith": {
+    "criteria": {
+      "familiar_blacksmith": "2025-05-05 06:33:54 +0000"
     },
     "done": true
   },
