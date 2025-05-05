@@ -7325,6 +7325,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-05 05:37:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2025-05-05 05:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7475,6 +7487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-05 05:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-05-05 04:45:58 +0000"
@@ -7547,9 +7565,21 @@
     },
     "done": true
   },
+  "occultism:occultism/possess_endermite": {
+    "criteria": {
+      "possess_endermite": "2025-05-05 05:36:55 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/chalk_white_impure": {
     "criteria": {
       "has_ashes": "2025-05-05 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-05 05:37:01 +0000"
     },
     "done": true
   },
@@ -7784,6 +7814,18 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-05 05:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-05 05:37:01 +0000"
     },
     "done": true
   },

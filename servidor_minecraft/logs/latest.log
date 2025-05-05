@@ -8112,3 +8112,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 05:18:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 256 [Coal] to Daneg32]
 [05May2025 05:21:43.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [An Ear-Shattering Roar]
 [05May2025 05:24:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Dragon Commander]
+[05May2025 05:30:40.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement ['Til Death Do Us Part]
+[05May2025 05:31:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Best Friends Forever]
+[05May2025 05:32:20.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Pig]
+[05May2025 05:34:16.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Gave 64 [Birch Log] to ItsAyax]
+[05May2025 05:36:05.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Egg] to Juan123]
+[05May2025 05:36:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Dragon Growth Hormone]
+[05May2025 05:36:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Egg] to Juan123]
+[05May2025 05:37:00.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PossessedEndermiteEntity['Narfelldor'/58674, l='ServerLevel[world]', x=-420.23, y=63.00, z=2387.11] died: Narfelldor was slain by Juan123
