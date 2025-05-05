@@ -7095,6 +7095,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-05-04 07:38:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
     "criteria": {
       "has_dragonscale_amythest": "2025-05-04 07:49:37 +0000"
@@ -7107,21 +7113,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-04 08:01:21 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-05-04 07:56:50 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonarmor": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
-      "iron": "2025-05-04 07:38:37 +0000"
+      "has_upgrade_base": "2025-05-04 08:01:21 +0000"
     },
     "done": true
   },

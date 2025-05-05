@@ -7288,9 +7288,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "umvuthana_raptor": "2025-05-04 07:41:36 +0000"
+      "has_enchanted_golden_apple": "2025-05-04 07:29:48 +0000"
     },
     "done": true
   },
@@ -7300,9 +7300,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-05-04 07:29:48 +0000"
+      "umvuthana_raptor": "2025-05-04 07:41:36 +0000"
     },
     "done": true
   },
