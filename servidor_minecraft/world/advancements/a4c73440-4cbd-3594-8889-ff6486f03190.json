@@ -7131,6 +7131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-05 04:25:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-05 04:05:08 +0000"
@@ -7173,6 +7179,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-05 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-05 04:25:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-05 04:05:08 +0000"
@@ -7188,6 +7206,12 @@
   "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-05-05 04:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-05 04:25:51 +0000"
     },
     "done": true
   },
@@ -7218,6 +7242,12 @@
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-05 04:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-05 04:25:44 +0000"
     },
     "done": true
   },
@@ -7257,9 +7287,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-05 04:25:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-05-05 04:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-05-05 04:31:20 +0000"
     },
     "done": true
   },

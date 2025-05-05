@@ -8759,3 +8759,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 04:08:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -145.500000, 113.500000, 1848.500000]
 [05May2025 04:11:37.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 04:11:37.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:16:37.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:16:37.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:18:27.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.25670331197443375
+[05May2025 04:18:27.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.9086608646062473
+[05May2025 04:18:28.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.559873674258597
+[05May2025 04:18:28.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.3213347980818071
+[05May2025 04:21:37.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:21:37.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:23:31.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[05May2025 04:26:37.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:26:37.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:29:30.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Andesite] to Juan123]
+[05May2025 04:30:47.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned into gorgonzola by Gorgon
+[05May2025 04:30:47.054] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-839, y:63, z:3208, dim:minecraft:overworld]
+[05May2025 04:30:47.082] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 04:30:54.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -837.500000, 64.500000, 3207.500000]
+[05May2025 04:31:04.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 moved wrongly!
+[05May2025 04:31:04.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 moved wrongly!
+[05May2025 04:31:05.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned to stone by Gorgon
+[05May2025 04:31:05.161] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-839, y:65, z:3203, dim:minecraft:overworld]
+[05May2025 04:31:05.188] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 04:31:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -839.500000, 65.500000, 3202.500000]
+[05May2025 04:31:20.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Clash of the Titans]
+[05May2025 04:31:37.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:31:37.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:32:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 32 [Andesite] to Juan123]
+[05May2025 04:33:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -521.500000, 72.500000, 2437.500000]
+[05May2025 04:34:28.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Set own game mode to Spectator Mode]
+[05May2025 04:34:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -339.500000, 63.500000, 2416.500000]
+[05May2025 04:35:07.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Set own game mode to Survival Mode]
+[05May2025 04:35:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -556.500000, 73.500000, 2496.500000]

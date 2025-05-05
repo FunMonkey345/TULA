@@ -7312,6 +7312,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_ashes": {
+    "criteria": {
+      "has_otherworld_log": "2025-05-05 04:18:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
