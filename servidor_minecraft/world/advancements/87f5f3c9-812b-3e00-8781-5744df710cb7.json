@@ -7313,6 +7313,12 @@
     },
     "done": true
   },
+  "occultism:occultism/possess_skeleton": {
+    "criteria": {
+      "possess_skeleton": "2025-05-05 05:47:54 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
     "criteria": {
       "has_chalk_white_impure": "2025-05-05 04:47:13 +0000"
@@ -7496,6 +7502,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_purple": {
+    "criteria": {
+      "has_chalk_purple_impure": "2025-05-05 05:37:38 +0000"
     },
     "done": true
   },
