@@ -353,6 +353,7 @@
       "minecraft:ocean": "2025-04-28 06:43:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-28 06:20:48 +0000",
       "minecraft:snowy_beach": "2025-05-02 03:36:10 +0000",
+      "minecraft:flower_forest": "2025-05-05 04:35:54 +0000",
       "minecraft:deep_dark": "2025-05-04 05:01:56 +0000",
       "minecraft:meadow": "2025-04-28 04:09:02 +0000",
       "minecraft:savanna": "2025-04-29 06:47:35 +0000",
@@ -7306,6 +7307,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
+    "criteria": {
+      "has_sacrificial_bowl": "2025-05-05 04:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7318,9 +7325,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/otherstone_frame": {
+    "criteria": {
+      "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_red_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-05-05 04:46:29 +0000"
     },
     "done": true
   },
@@ -7333,6 +7364,12 @@
   "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
     "criteria": {
       "has_otherworld_sapling_natural": "2025-05-05 04:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-05 04:45:58 +0000"
     },
     "done": true
   },
@@ -7360,6 +7397,18 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/chalk_white_impure": {
+    "criteria": {
+      "has_ashes": "2025-05-05 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-05 04:41:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7378,9 +7427,21 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_essence": {
     "criteria": {
       "has_demons_dream_essence": "2025-05-05 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_gold_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-05-05 04:46:29 +0000"
     },
     "done": true
   },
@@ -7399,6 +7460,72 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
+    "criteria": {
+      "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_purple_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-05-05 04:46:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/otherstone_slab": {
+    "criteria": {
+      "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-05-05 04:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/candle": {
+    "criteria": {
+      "has_tallow": "2025-05-05 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
+    "criteria": {
+      "has_otherstone": "2025-05-05 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 04:45:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/burnt_otherstone": {
+    "criteria": {
+      "has_otherstone": "2025-05-05 04:32:17 +0000"
     },
     "done": true
   },

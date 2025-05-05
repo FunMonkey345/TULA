@@ -8790,3 +8790,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 04:34:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -339.500000, 63.500000, 2416.500000]
 [05May2025 04:35:07.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Set own game mode to Survival Mode]
 [05May2025 04:35:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -556.500000, 73.500000, 2496.500000]
+[05May2025 04:36:31.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Masquerade]
+[05May2025 04:36:37.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:36:37.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:41:37.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:41:37.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:42:37.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 64 [Andesite] to Juan123]
+[05May2025 04:43:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Set own game mode to Creative Mode]
+[05May2025 04:44:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Set own game mode to Survival Mode]
+[05May2025 04:46:37.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:46:37.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
