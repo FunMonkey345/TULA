@@ -7324,6 +7324,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
+    "criteria": {
+      "has_otherworld_sapling_natural": "2025-05-05 04:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
@@ -7333,6 +7339,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-05 03:53:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/divination_rod": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-05-05 04:01:41 +0000"
     },
     "done": true
   },
@@ -7354,9 +7366,27 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-05-05 04:01:41 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_essence": {
     "criteria": {
       "has_demons_dream_essence": "2025-05-05 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lenses": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-05-05 04:01:41 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_crystal": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-05-05 04:01:41 +0000"
     },
     "done": true
   },

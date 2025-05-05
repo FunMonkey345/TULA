@@ -480,3 +480,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 04:01:28.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 37.64077171816395,0.0,-31.291877054452016
 [05May2025 04:01:28.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 32.53190788972624,0.0,-27.003530110444444
 [05May2025 04:01:28.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 34.24361493418422,0.0,-28.426033441805885
+[05May2025 04:06:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -504.500000, 76.500000, 2467.500000]
+[05May2025 04:07:10.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-582, y=81, z=2423} BlockPos{x=-582, y=81, z=2424}
+[05May2025 04:08:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 5 [Oak Sapling] to Juan123]
+[05May2025 04:08:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall by Lightning Dragon
+[05May2025 04:08:31.653] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 04:08:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -145.500000, 113.500000, 1848.500000]

@@ -8747,3 +8747,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05May2025 04:01:37.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 04:01:37.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05May2025 04:01:37.769] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05May2025 04:06:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -504.500000, 76.500000, 2467.500000]
+[05May2025 04:06:27.468] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05May2025 04:06:37.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:06:37.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 04:07:10.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-582, y=81, z=2423} BlockPos{x=-582, y=81, z=2424}
+[05May2025 04:08:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 5 [Oak Sapling] to Juan123]
+[05May2025 04:08:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall by Lightning Dragon
+[05May2025 04:08:31.648] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-146, y:112, z:1846, dim:minecraft:overworld]
+[05May2025 04:08:31.653] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[05May2025 04:08:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -145.500000, 113.500000, 1848.500000]
+[05May2025 04:11:37.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 04:11:37.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
