@@ -678,3 +678,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 06:20:16.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [14May2025 06:20:35.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
 [14May2025 06:20:35.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Nether is shaking...
+[14May2025 06:20:44.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 06:20:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[14May2025 06:20:54.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[14May2025 06:20:54.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 485.500000, 32.500000, -386.500000]
+[14May2025 06:20:58.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 451.500000, 99.500000, -360.500000]
+[14May2025 06:21:14.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 06:22:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[14May2025 06:22:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 06:22:33.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 600.500000, 99.500000, -302.500000]
+[14May2025 06:22:34.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 tried to swim in lava
+[14May2025 06:22:34.464] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 06:22:56.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to 555.500000, 28.500000, -377.500000]
+[14May2025 06:23:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 605.500000, 66.500000, -388.500000]
+[14May2025 06:23:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Creative Mode]
+[14May2025 06:23:34.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Gave 1 [Ender Pearl] to Daneg32]
+[14May2025 06:23:48.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Easy Opening]
+[14May2025 06:24:01.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 597.500000, 81.500000, -343.500000]
+[14May2025 06:24:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[14May2025 06:24:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax tried to swim in lava to escape Daneg32
+[14May2025 06:24:35.303] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[14May2025 06:24:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Daneg32]
+[14May2025 06:24:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Daneg32
+[14May2025 06:24:49.362] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[14May2025 06:24:57.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 599.500000, 116.500000, -335.500000]
+[14May2025 06:24:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [A Fast Comeback]
+[14May2025 06:26:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 595.500000, 30.500000, -346.500000]
+[14May2025 06:26:07.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 600.500000, 99.500000, -304.500000]
+[14May2025 06:27:09.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 711.500000, 36.500000, -229.500000]
+[14May2025 06:27:30.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -46.500000, 95.500000, 297.500000]
+[14May2025 06:27:57.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -45.500000, 95.500000, 298.500000]
+[14May2025 06:28:13.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[14May2025 06:28:13.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[14May2025 06:28:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to ItsAyax]
+[14May2025 06:29:16.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[14May2025 06:29:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[14May2025 06:29:27.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:65054] logged in with entity id 91019 at (-388.52075000587575, 67.0, 2418.324085988268)
+[14May2025 06:29:27.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[14May2025 06:29:27.594] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[14May2025 06:30:53.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.77.120.30:55954] logged in with entity id 91199 at (-395.88358704351475, 63.0, 2386.122621785863)
+[14May2025 06:30:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[14May2025 06:30:53.635] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
