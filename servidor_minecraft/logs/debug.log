@@ -9008,3 +9008,123 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 05:28:05.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8357ms or 167 ticks behind
 [14May2025 05:28:25.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4424ms or 88 ticks behind
 [14May2025 05:28:47.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7015ms or 140 ticks behind
+[14May2025 05:29:11.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9181ms or 183 ticks behind
+[14May2025 05:29:16.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 5.981959220660883,0.0,9.288630532271782
+[14May2025 05:29:16.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 7.219405811727938,0.0,11.124318978609608
+[14May2025 05:29:16.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 6.232222359271873,0.0,9.154189721185958
+[14May2025 05:29:17.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14May2025 05:29:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Zombie]
+[14May2025 05:29:35.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9612ms or 192 ticks behind
+[14May2025 05:29:56.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
+[14May2025 05:31:26.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:31:26.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:31:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -206.500000, 98.500000, 481.500000]
+[14May2025 05:31:32.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.4885427283579702
+[14May2025 05:31:37.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[14May2025 05:31:44.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.2647331541015774
+[14May2025 05:31:44.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 1.249340993158512
+[14May2025 05:31:48.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.6349649125718315
+[14May2025 05:31:48.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.4029110517431036
+[14May2025 05:31:48.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.2696343000457091
+[14May2025 05:31:48.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 1.065542724007173
+[14May2025 05:31:49.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 1.857235548602148
+[14May2025 05:31:49.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.2684151024482162
+[14May2025 05:31:49.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 0.2696687524767185
+[14May2025 05:31:49.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved wrongly! 1.0591663658337893
+[14May2025 05:31:55.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[14May2025 05:32:10.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -125.500000, 90.500000, 489.500000]
+[14May2025 05:32:12.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14May2025 05:32:21.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [A Terrible Fortress]
+[14May2025 05:32:31.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[14May2025 05:32:54.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7491ms or 149 ticks behind
+[14May2025 05:33:12.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3828ms or 76 ticks behind
+[14May2025 05:33:26.609] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14May2025 05:33:31.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3327ms or 66 ticks behind
+[14May2025 05:33:35.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Hunt and Gather]
+[14May2025 05:33:47.313] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=127}
+[14May2025 05:33:47.315] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=128}
+[14May2025 05:33:47.340] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14May2025 05:33:47.341] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14May2025 05:33:47.341] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=127}
+[14May2025 05:33:47.341] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=135}
+[14May2025 05:33:51.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5649ms or 112 ticks behind
+[14May2025 05:33:53.039] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14May2025 05:33:56.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Terrible Fortress]
+[14May2025 05:33:58.216] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:34:02.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 05:34:03.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [A Terrible Fortress]
+[14May2025 05:34:09.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:34:47.590] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:34:59.971] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:35:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 05:36:36.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[14May2025 05:36:56.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:36:56.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:37:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was burnt to a crisp whilst fighting Piglin
+[14May2025 05:37:08.359] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-103, y:70, z:445, dim:minecraft:the_nether]
+[14May2025 05:37:08.373] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 05:37:10.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [The Path to Better Gear]
+[14May2025 05:37:30.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14May2025 05:37:40.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -102.500000, 70.500000, 444.500000]
+[14May2025 05:38:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 05:39:20.185] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14May2025 05:39:20.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Nightmare Fuel]
+[14May2025 05:39:35.784] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:39:42.178] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:39:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Into Fire]
+[14May2025 05:39:58.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:40:20.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:40:21.777] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:40:31.277] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14May2025 05:40:32.776] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:40:37.322] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:41:08.949] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:41:28.062] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:41:29.770] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:41:31.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[14May2025 05:41:48.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[14May2025 05:42:05.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:42:05.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:42:07.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
+[14May2025 05:42:26.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[14May2025 05:42:44.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
+[14May2025 05:43:02.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[14May2025 05:43:20.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[14May2025 05:43:33.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:43:34.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:43:37.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[14May2025 05:43:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 156.500000, 70.500000, -47.500000]
+[14May2025 05:43:53.843] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14May2025 05:43:54.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[14May2025 05:44:01.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14May2025 05:44:12.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14May2025 05:44:30.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[14May2025 05:44:49.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[14May2025 05:45:08.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3958ms or 79 ticks behind
+[14May2025 05:45:26.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[14May2025 05:45:44.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[14May2025 05:45:59.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -156.500000, 99.500000, 690.500000]
+[14May2025 05:46:02.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[14May2025 05:46:20.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[14May2025 05:46:39.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4033ms or 80 ticks behind
+[14May2025 05:46:46.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -287.500000, 86.500000, 825.500000]
+[14May2025 05:46:58.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4259ms or 85 ticks behind
+[14May2025 05:47:17.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
+[14May2025 05:47:21.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14May2025 05:47:28.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -312.500000, 53.500000, 955.500000]
+[14May2025 05:47:34.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[14May2025 05:47:35.012] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:47:52.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14May2025 05:48:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has completed the challenge [Return to Sender]
+[14May2025 05:48:07.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:48:07.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:48:07.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 moved too quickly! -1.179880305032171,-10.058125801321296,0.3615388777020314
+[14May2025 05:48:12.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5244ms or 104 ticks behind
+[14May2025 05:48:30.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[14May2025 05:48:31.393] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:48:49.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[14May2025 05:48:49.569] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:49:07.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[14May2025 05:49:09.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14May2025 05:49:13.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[14May2025 05:49:21.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
