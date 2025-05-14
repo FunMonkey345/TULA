@@ -727,3 +727,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 06:38:46.358] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
 [14May2025 06:50:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was toasted by Daneg32's flaming breath
 [14May2025 06:50:55.351] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[14May2025 06:57:29.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 713.500000, 38.500000, -230.500000]
+[14May2025 06:59:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Ferrous Wroughtnaut
+[14May2025 06:59:29.587] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 07:01:57.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[14May2025 07:01:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[14May2025 07:01:57.949] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14May2025 07:01:57.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.122.10.66:50101] logged in with entity id 102281 at (-397.5670063973774, -25.0, 2675.3027762770653)
+[14May2025 07:01:57.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[14May2025 07:01:58.056] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
