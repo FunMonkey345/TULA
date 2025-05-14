@@ -5040,10 +5040,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-02 04:52:59 +0000",
       "minecraft:nether_wastes": "2025-05-02 04:43:23 +0000",
+      "minecraft:soul_sand_valley": "2025-05-14 05:59:41 +0000",
       "minecraft:warped_forest": "2025-05-02 04:52:09 +0000",
       "minecraft:basalt_deltas": "2025-05-02 06:09:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -6551,6 +6552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-14 05:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-05-14 05:38:26 +0000"
@@ -6614,6 +6621,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-14 05:27:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-14 05:59:45 +0000"
     },
     "done": true
   },
@@ -6689,6 +6702,12 @@
     },
     "done": true
   },
+  "ancient_golems:prevent_destruction": {
+    "criteria": {
+      "prevent_destruction_0": "2025-05-14 06:01:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-14 05:38:26 +0000"
@@ -6698,6 +6717,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-14 05:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-14 05:59:45 +0000"
     },
     "done": true
   },
@@ -6716,6 +6741,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-14 05:36:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-14 05:57:11 +0000"
     },
     "done": true
   },
