@@ -8168,21 +8168,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
-      "blaze_rod": "2025-05-14 05:51:48 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
-    "criteria": {
-      "requirement": "2025-05-14 06:06:47 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-05-14 06:24:59 +0000"
+      "has_bookshelf": "2025-05-14 05:17:30 +0000"
     },
     "done": true
   },
@@ -8192,27 +8180,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_feather_fall": {
-    "criteria": {
-      "has_magic_scroll": "2025-05-14 05:49:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-05-14 05:48:36 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-14 05:51:48 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_saturated": {
-    "criteria": {
-      "saturated": "2025-05-14 05:51:27 +0000"
     },
     "done": true
   },
@@ -8222,21 +8192,27 @@
     },
     "done": true
   },
-  "ancient_golems:prevent_destruction": {
+  "tombstone:adventure/use_feather_fall": {
     "criteria": {
-      "prevent_destruction_0": "2025-05-14 06:01:51 +0000"
+      "has_magic_scroll": "2025-05-14 05:49:48 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "brewery:main/get_saturated": {
     "criteria": {
-      "has_bookshelf": "2025-05-14 05:17:30 +0000"
+      "saturated": "2025-05-14 05:51:27 +0000"
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "killed_ghast": "2025-05-14 06:12:42 +0000"
+      "blaze_rod": "2025-05-14 05:51:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-14 05:51:48 +0000"
     },
     "done": true
   },
@@ -8249,6 +8225,30 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-14 05:51:48 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:prevent_destruction": {
+    "criteria": {
+      "prevent_destruction_0": "2025-05-14 06:01:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-05-14 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-14 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 06:24:59 +0000"
     },
     "done": true
   },

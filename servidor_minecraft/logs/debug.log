@@ -9755,3 +9755,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 06:30:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
 [14May2025 06:30:53.635] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
 [14May2025 06:30:56.395] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: 87f5f3c9-812b-3e00-8781-5744df710cb7 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[14May2025 06:32:02.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Creative Mode]
+[14May2025 06:32:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[14May2025 06:33:49.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 06:33:49.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 06:37:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by ItsAyax using [Polearm]
+[14May2025 06:37:52.843] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-351, y:63, z:2418, dim:minecraft:overworld]
+[14May2025 06:37:52.855] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 06:38:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by ItsAyax using [Polearm]
+[14May2025 06:38:46.356] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-321, y:63, z:2388, dim:minecraft:overworld]
+[14May2025 06:38:46.358] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 06:38:49.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 06:38:49.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

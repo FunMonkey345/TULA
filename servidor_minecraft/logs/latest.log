@@ -719,3 +719,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 06:30:53.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.77.120.30:55954] logged in with entity id 91199 at (-395.88358704351475, 63.0, 2386.122621785863)
 [14May2025 06:30:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
 [14May2025 06:30:53.635] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[14May2025 06:32:02.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Creative Mode]
+[14May2025 06:32:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set own game mode to Survival Mode]
+[14May2025 06:37:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by ItsAyax using [Polearm]
+[14May2025 06:37:52.855] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 06:38:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by ItsAyax using [Polearm]
+[14May2025 06:38:46.358] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
