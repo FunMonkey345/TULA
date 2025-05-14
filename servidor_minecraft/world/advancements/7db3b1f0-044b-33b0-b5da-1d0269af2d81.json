@@ -959,6 +959,7 @@
       "minecraft:hoglin": "2025-05-02 05:18:08 +0000",
       "minecraft:magma_cube": "2025-05-14 05:27:18 +0000",
       "minecraft:spider": "2025-04-28 03:38:32 +0000",
+      "minecraft:piglin_brute": "2025-05-14 07:02:46 +0000",
       "minecraft:creeper": "2025-04-28 04:23:30 +0000",
       "minecraft:evoker": "2025-05-04 06:24:38 +0000",
       "minecraft:zombified_piglin": "2025-05-02 06:02:36 +0000",
@@ -6594,6 +6595,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-14 07:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-14 05:17:11 +0000"
@@ -6615,6 +6622,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-14 05:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-14 07:03:04 +0000"
     },
     "done": true
   },
@@ -6723,6 +6736,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-14 05:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-14 07:03:04 +0000"
     },
     "done": true
   },
