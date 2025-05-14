@@ -9767,3 +9767,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 06:38:46.358] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
 [14May2025 06:38:49.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 06:38:49.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 06:43:49.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 06:43:49.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 06:48:49.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 06:48:49.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 06:50:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was toasted by Daneg32's flaming breath
+[14May2025 06:50:55.343] [Server thread/DEBUG] [tombstone/]: A new grave of the player ItsAyax was created at position [x:-367, y:63, z:2414, dim:minecraft:overworld]
+[14May2025 06:50:55.351] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved

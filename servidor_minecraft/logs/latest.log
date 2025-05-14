@@ -725,3 +725,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 06:37:52.855] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
 [14May2025 06:38:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by ItsAyax using [Polearm]
 [14May2025 06:38:46.358] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 06:50:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was toasted by Daneg32's flaming breath
+[14May2025 06:50:55.351] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
