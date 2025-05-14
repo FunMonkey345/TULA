@@ -8952,3 +8952,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14May2025 05:07:52.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
 [14May2025 05:07:52.886] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
 [14May2025 05:07:55.406] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[14May2025 05:08:46.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> 7weather clear
+[14May2025 05:08:52.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set the weather to clear]
+[14May2025 05:09:21.813] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[14May2025 05:09:21.813] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[14May2025 05:09:48.310] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: a4c73440-4cbd-3594-8889-ff6486f03190 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=33b912f8-0aa0-45e6-a2d4-9b5677e6f35c, length=50, extra={valid=true}}, startingAt=0, player=null}
+[14May2025 05:10:09.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:10:09.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:12:44.349] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[14May2025 05:12:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Blueprint Binder] to Juan123]
+[14May2025 05:14:37.155] [Worker-Main-15/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14May2025 05:14:37.155] [Worker-Main-15/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14May2025 05:14:37.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! -10.500696314708534,0.0,-2.7206351591667044
+[14May2025 05:14:37.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! -12.621819677012013,0.0,-3.2560856019640596
+[14May2025 05:14:37.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! -14.748095906801154,0.0,-3.7894054165767557
+[14May2025 05:14:37.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 12.766696487967693,0.0,3.1961813607649674
+[14May2025 05:14:37.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 12.766696487967693,0.0,3.1961813607649674
+[14May2025 05:14:37.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 12.766696487967693,0.0,3.1961813607649674
+[14May2025 05:14:37.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 10.62521301920458,0.0,2.6691494959318334
+[14May2025 05:14:41.639] [Worker-Main-16/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[14May2025 05:15:09.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:15:09.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:15:10.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MOTAS (vehicle of Daneg32) moved too quickly! 5.9010226672962744,0.0,-8.694271925669455
+[14May2025 05:15:25.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14May2025 05:15:43.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[14May2025 05:16:00.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[14May2025 05:16:20.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14May2025 05:16:37.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
+[14May2025 05:16:55.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14May2025 05:16:58.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 burned to death
+[14May2025 05:16:58.456] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daneg32 was created at position [x:-953, y:72, z:2262, dim:minecraft:overworld]
+[14May2025 05:16:58.481] [Server thread/INFO] [tombstone/]: The player Daneg32 has successfully been saved
+[14May2025 05:17:04.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -951.500000, 72.500000, 2262.500000]
+[14May2025 05:18:19.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14May2025 05:18:37.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind

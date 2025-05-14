@@ -324,6 +324,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-29 06:51:16 +0000",
+      "minecraft:deep_ocean": "2025-05-14 05:14:44 +0000",
       "minecraft:eroded_badlands": "2025-04-29 06:20:44 +0000",
       "minecraft:frozen_river": "2025-05-04 05:20:15 +0000",
       "minecraft:cherry_grove": "2025-04-28 03:10:30 +0000",
@@ -352,6 +353,7 @@
       "minecraft:desert": "2025-04-29 04:47:31 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-04 06:41:23 +0000",
       "minecraft:jungle": "2025-04-28 06:41:08 +0000",
+      "minecraft:ocean": "2025-05-14 05:14:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 05:05:03 +0000",
       "minecraft:snowy_beach": "2025-05-04 05:55:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-29 04:25:53 +0000",
