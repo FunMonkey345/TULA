@@ -6720,6 +6720,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-14 06:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-14 05:59:45 +0000"
@@ -6747,6 +6753,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-14 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-14 06:13:02 +0000"
     },
     "done": true
   },
