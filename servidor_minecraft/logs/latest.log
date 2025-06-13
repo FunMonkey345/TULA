@@ -533,3 +533,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Jun2025 05:29:46.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
 [13Jun2025 05:30:11.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergi69420 lost connection: Disconnected
 [13Jun2025 05:30:11.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 left the game
+[13Jun2025 05:32:02.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergi69420[/100.99.83.87:60076] logged in with entity id 31060 at (160.69464542648177, -34.0, 1563.6988627400726)
+[13Jun2025 05:32:02.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 joined the game
+[13Jun2025 05:32:02.693] [Server thread/INFO] [Jade/]: Syncing config to sergi69420 (e45cbbc4-6190-391b-a5f7-93c93f1ec5d1)
+[13Jun2025 05:32:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Knives Out]
+[13Jun2025 05:34:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to sergi69420]
+[13Jun2025 05:35:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 45.500000, 103.500000, 1470.500000]
+[13Jun2025 05:35:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[13Jun2025 05:35:57.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Jun2025 05:36:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[13Jun2025 05:36:15.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[13Jun2025 05:36:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ItsAyax]
+[13Jun2025 05:37:04.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Demonslayer]
+[13Jun2025 05:37:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax was slain by sergi69420
+[13Jun2025 05:37:05.179] [Server thread/INFO] [tombstone/]: The player ItsAyax has successfully been saved
+[13Jun2025 05:37:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[13Jun2025 05:37:50.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergi69420 moved wrongly!
+[13Jun2025 05:38:24.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Knives Out]
+[13Jun2025 05:40:07.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[13Jun2025 05:40:22.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[13Jun2025 05:40:26.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[13Jun2025 05:40:26.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[13Jun2025 05:40:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to sergi69420]
+[13Jun2025 05:40:45.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to ItsAyax]

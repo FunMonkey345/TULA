@@ -6813,6 +6813,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-06-13 05:32:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_upgrade_smithing_template": {
     "criteria": {
       "has_silver_upgrade_smithing_template": "2025-06-13 05:01:58 +0000"
