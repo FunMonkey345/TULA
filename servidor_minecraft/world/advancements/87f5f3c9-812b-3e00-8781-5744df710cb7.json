@@ -462,6 +462,7 @@
       "cooked_porkchop": "2025-05-01 08:25:50 +0000",
       "beef": "2025-04-28 04:05:30 +0000",
       "porkchop": "2025-05-02 04:49:48 +0000",
+      "spider_eye": "2025-06-13 05:18:01 +0000",
       "potato": "2025-04-28 06:06:36 +0000",
       "bread": "2025-04-28 02:21:39 +0000",
       "golden_apple": "2025-04-28 04:55:17 +0000",
@@ -8270,6 +8271,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-06-13 05:07:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-13 05:13:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-06-13 05:16:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-06-13 04:57:52 +0000"
@@ -8294,9 +8313,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-06-13 05:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-13 04:55:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-06-13 05:10:46 +0000"
     },
     "done": true
   },
@@ -8309,6 +8340,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-13 04:55:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-06-13 05:12:26 +0000"
     },
     "done": true
   },
