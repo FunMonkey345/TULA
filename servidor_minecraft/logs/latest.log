@@ -454,3 +454,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Jun2025 04:27:40.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergi69420[/100.99.83.87:58258] logged in with entity id 3597 at (-297.5157936411036, 106.0, 2461.4476494450237)
 [13Jun2025 04:27:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 joined the game
 [13Jun2025 04:27:40.514] [Server thread/INFO] [Jade/]: Syncing config to sergi69420 (e45cbbc4-6190-391b-a5f7-93c93f1ec5d1)
+[13Jun2025 04:42:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[13Jun2025 04:44:46.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -268.500000, 88.500000, 2803.500000]
+[13Jun2025 04:45:32.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[13Jun2025 04:45:32.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[13Jun2025 04:46:18.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -410.500000, 73.500000, 2372.500000]
+[13Jun2025 04:49:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 1589.500000, 81.500000, 1715.500000]
+[13Jun2025 04:50:07.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Pic-A-Nic Basket?]
+[13Jun2025 04:52:02.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.77.120.30:50452] logged in with entity id 11524 at (-380.5497389724361, 63.0, 2421.015378374245)
+[13Jun2025 04:52:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[13Jun2025 04:52:02.197] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[13Jun2025 04:52:14.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 1571.500000, 61.500000, 1876.500000]
+[13Jun2025 04:52:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 1548.500000, 56.500000, 1877.500000]
+[13Jun2025 04:52:52.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Brew Pioneer]
+[13Jun2025 04:53:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to 1569.500000, 24.500000, 2031.500000]
+[13Jun2025 04:54:01.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Jun2025 04:54:18.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported sergi69420 to Juan123]
+[13Jun2025 04:55:40.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sergi69420) moved wrongly! 0.36119906059900586
+[13Jun2025 04:57:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Crops of the Wild]
+[13Jun2025 04:58:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported sergi69420 to Juan123]
+[13Jun2025 05:00:05.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[13Jun2025 05:01:11.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to -134.500000, 87.500000, 1745.500000]
+[13Jun2025 05:01:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -106.500000, 86.500000, 1763.500000]
+[13Jun2025 05:01:31.404] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[13Jun2025 05:01:31.404] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[13Jun2025 05:01:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to -135.500000, 87.500000, 1747.500000]
+[13Jun2025 05:03:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to 80.500000, 77.500000, 1688.500000]
+[13Jun2025 05:03:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to sergi69420]
+[13Jun2025 05:03:58.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[13Jun2025 05:03:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has reached the goal [Forlornliest Day of My Life]
+[13Jun2025 05:04:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[13Jun2025 05:04:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to ItsAyax]
+[13Jun2025 05:05:12.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 185.500000, 41.500000, 1580.500000]
+[13Jun2025 05:05:16.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 182.500000, 20.500000, 1596.500000]
+[13Jun2025 05:05:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[13Jun2025 05:05:39.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[13Jun2025 05:06:19.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [That is One Big Pile of...]
+[13Jun2025 05:07:18.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Hans Moleman]
+[13Jun2025 05:07:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Chattering Teeth]
+[13Jun2025 05:08:14.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Chattering Teeth]
+[13Jun2025 05:09:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 has made the advancement [Corrodon't]
+[13Jun2025 05:09:33.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 243.500000, 26.500000, 1596.500000]
+[13Jun2025 05:09:38.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 182.500000, -33.500000, 1598.500000]
+[13Jun2025 05:09:44.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsAyax: Teleported ItsAyax to Juan123]
+[13Jun2025 05:09:54.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sergi69420: Teleported sergi69420 to Juan123]
+[13Jun2025 05:10:06.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!
+[13Jun2025 05:10:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [Corrodon't]
+[13Jun2025 05:10:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax has made the advancement [That is One Big Pile of...]
+[13Jun2025 05:10:11.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAyax moved wrongly!

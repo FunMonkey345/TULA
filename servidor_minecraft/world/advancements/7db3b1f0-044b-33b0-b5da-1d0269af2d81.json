@@ -330,6 +330,7 @@
       "minecraft:cherry_grove": "2025-04-29 06:37:35 +0000",
       "minecraft:wooded_badlands": "2025-04-29 06:12:46 +0000",
       "minecraft:badlands": "2025-04-28 02:59:21 +0000",
+      "minecraft:savanna_plateau": "2025-06-13 04:59:49 +0000",
       "minecraft:beach": "2025-04-29 06:57:47 +0000",
       "minecraft:dark_forest": "2025-04-29 04:52:13 +0000",
       "minecraft:mangrove_swamp": "2025-04-28 03:53:52 +0000",
@@ -604,6 +605,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-06-13 05:05:31 +0000",
       "beef": "2025-05-04 06:20:36 +0000",
       "apple": "2025-04-28 05:09:27 +0000",
       "bread": "2025-04-28 03:09:03 +0000",
@@ -6790,6 +6792,36 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-05-14 07:03:04 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-06-13 05:01:39 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-06-13 05:01:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-06-13 05:02:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-06-13 05:03:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-06-13 05:02:10 +0000"
     },
     "done": true
   },
