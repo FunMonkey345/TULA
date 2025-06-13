@@ -448,3 +448,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Jun2025 04:16:56.875] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
 [13Jun2025 04:16:56.878] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
 [13Jun2025 04:16:58.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[13Jun2025 04:25:03.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAyax[/100.121.176.62:57637] logged in with entity id 2678 at (-293.19886552803837, 64.0, 2414.608328885001)
+[13Jun2025 04:25:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAyax joined the game
+[13Jun2025 04:25:03.946] [Server thread/INFO] [Jade/]: Syncing config to ItsAyax (7db3b1f0-044b-33b0-b5da-1d0269af2d81)
+[13Jun2025 04:27:40.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergi69420[/100.99.83.87:58258] logged in with entity id 3597 at (-297.5157936411036, 106.0, 2461.4476494450237)
+[13Jun2025 04:27:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergi69420 joined the game
+[13Jun2025 04:27:40.514] [Server thread/INFO] [Jade/]: Syncing config to sergi69420 (e45cbbc4-6190-391b-a5f7-93c93f1ec5d1)
